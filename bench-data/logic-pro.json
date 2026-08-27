@@ -1,0 +1,2278 @@
+{
+  "app" : "Logic Pro",
+  "ax_extract_ms" : 167.64083400000001,
+  "ax_nodes_total" : 274,
+  "display" : {
+    "image" : "logic-pro-display.png",
+    "image_size" : [
+      3024,
+      1964
+    ],
+    "window_origin_px" : [
+      -2,
+      64
+    ],
+    "window_size_px" : [
+      2322,
+      1900
+    ]
+  },
+  "image" : "logic-pro.png",
+  "image_size" : [
+    2322,
+    1900
+  ],
+  "targets" : [
+    {
+      "center" : [
+        112,
+        28
+      ],
+      "id" : 2,
+      "label" : "button · this button also has an action to zoom the window",
+      "px" : [
+        100,
+        14,
+        24,
+        28
+      ],
+      "role" : "AXButton",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        1046,
+        26
+      ],
+      "id" : 4,
+      "label" : "image · Untitled",
+      "px" : [
+        1028,
+        8,
+        36,
+        36
+      ],
+      "role" : "AXImage",
+      "screen" : 0,
+      "title" : "Untitled"
+    },
+    {
+      "center" : [
+        1004,
+        104
+      ],
+      "id" : 12,
+      "label" : "check box · Cycle · Cycle   C, Cycle button. Use Cycle to repeatedly play, or record over, the project section within the yellow cycle area … · 0",
+      "px" : [
+        966,
+        74,
+        76,
+        60
+      ],
+      "role" : "AXCheckBox",
+      "screen" : 0,
+      "title" : "Cycle"
+    },
+    {
+      "center" : [
+        933,
+        104
+      ],
+      "id" : 13,
+      "label" : "button · Flashback Capture · Flashback Capture   ⇧R, Flashback Capture. Capture a recent MIDI or audio performance, even if Logic Pro wasn’t recordin… · 0",
+      "px" : [
+        900,
+        74,
+        66,
+        60
+      ],
+      "role" : "AXButton",
+      "screen" : 0,
+      "title" : "Flashback Capture"
+    },
+    {
+      "center" : [
+        867,
+        104
+      ],
+      "id" : 14,
+      "label" : "check box · Free Tempo Recording · Free Tempo Recording   ⌃⌥⌘R, Free Tempo Recording. Mutes all existing content during recording and performs a Smart Temp… · 0",
+      "px" : [
+        834,
+        74,
+        66,
+        60
+      ],
+      "role" : "AXCheckBox",
+      "screen" : 0,
+      "title" : "Free Tempo Recording"
+    },
+    {
+      "center" : [
+        797,
+        104
+      ],
+      "id" : 15,
+      "label" : "check box · Record · Record   R, Record button. Record to the selected track, or to multiple record-ready tracks. · 0",
+      "px" : [
+        760,
+        74,
+        74,
+        60
+      ],
+      "role" : "AXCheckBox",
+      "screen" : 0,
+      "title" : "Record"
+    },
+    {
+      "center" : [
+        723,
+        104
+      ],
+      "id" : 16,
+      "label" : "check box · Play · Play   ⌅, Play button. Start playback from the playhead position, or from the left locator shown in the ruler when in Cy… · 0",
+      "px" : [
+        686,
+        74,
+        74,
+        60
+      ],
+      "role" : "AXCheckBox",
+      "screen" : 0,
+      "title" : "Play"
+    },
+    {
+      "center" : [
+        649,
+        104
+      ],
+      "id" : 17,
+      "label" : "button · Go to Beginning · Go to Beginning   ↩, Go to Beginning button. Move the playhead to the start of the project. · 1",
+      "px" : [
+        612,
+        74,
+        74,
+        60
+      ],
+      "role" : "AXButton",
+      "screen" : 0,
+      "title" : "Go to Beginning"
+    },
+    {
+      "center" : [
+        1651,
+        104
+      ],
+      "id" : 18,
+      "label" : "check box · Replace · Replace   \/, Replace button. Replace an existing recording, or a portion of it, with a new recording. · 0",
+      "px" : [
+        1618,
+        74,
+        66,
+        60
+      ],
+      "role" : "AXCheckBox",
+      "screen" : 0,
+      "title" : "Replace"
+    },
+    {
+      "center" : [
+        1717,
+        104
+      ],
+      "id" : 19,
+      "label" : "check box · Tuner · Tuner, Tuner button. Tune instruments connected to your system. · 0",
+      "px" : [
+        1684,
+        74,
+        66,
+        60
+      ],
+      "role" : "AXCheckBox",
+      "screen" : 0,
+      "title" : "Tuner"
+    },
+    {
+      "center" : [
+        1784,
+        104
+      ],
+      "id" : 20,
+      "label" : "check box · Solo · Solo, Solo button. Only hear selected regions during playback. · 0",
+      "px" : [
+        1750,
+        74,
+        68,
+        60
+      ],
+      "role" : "AXCheckBox",
+      "screen" : 0,
+      "title" : "Solo"
+    },
+    {
+      "center" : [
+        1899,
+        104
+      ],
+      "id" : 21,
+      "label" : "check box · Count In · Count In   ⇧K, Count-in button. Play a predefined count-in before recording starts. Control-click the button to open a m… · 1",
+      "px" : [
+        1866,
+        74,
+        66,
+        60
+      ],
+      "role" : "AXCheckBox",
+      "screen" : 0,
+      "title" : "Count In"
+    },
+    {
+      "center" : [
+        1966,
+        104
+      ],
+      "id" : 22,
+      "label" : "check box · Metronome Click · Metronome Click   K, Metronome button. Hear a click at the project tempo during playback or recording. Click and hold fo… · 0",
+      "px" : [
+        1932,
+        74,
+        68,
+        60
+      ],
+      "role" : "AXCheckBox",
+      "screen" : 0,
+      "title" : "Metronome Click"
+    },
+    {
+      "center" : [
+        57,
+        104
+      ],
+      "id" : 23,
+      "label" : "check box · Library · Library   Y, Library button. Load patches and presets for the selected channel strip or plug-in type; start playing imme… · 1",
+      "px" : [
+        24,
+        74,
+        66,
+        60
+      ],
+      "role" : "AXCheckBox",
+      "screen" : 0,
+      "title" : "Library"
+    },
+    {
+      "center" : [
+        123,
+        104
+      ],
+      "id" : 24,
+      "label" : "check box · Inspector · Inspector   I, Inspector button. View and edit region and track settings, based on where you’re working and the item sel… · 1",
+      "px" : [
+        90,
+        74,
+        66,
+        60
+      ],
+      "role" : "AXCheckBox",
+      "screen" : 0,
+      "title" : "Inspector"
+    },
+    {
+      "center" : [
+        189,
+        104
+      ],
+      "id" : 25,
+      "label" : "check box · Quick Help · Quick Help button. Show the Quick Help area. If the inspector is closed, Quick Help opens as a separate window. · 0",
+      "px" : [
+        156,
+        74,
+        66,
+        60
+      ],
+      "role" : "AXCheckBox",
+      "screen" : 0,
+      "title" : "Quick Help"
+    },
+    {
+      "center" : [
+        256,
+        104
+      ],
+      "id" : 26,
+      "label" : "check box · Toolbar · Toolbar   ⌃⌥⌘T, Toolbar button. Show the toolbar, which contains buttons for key functions. · 0",
+      "px" : [
+        222,
+        74,
+        68,
+        60
+      ],
+      "role" : "AXCheckBox",
+      "screen" : 0,
+      "title" : "Toolbar"
+    },
+    {
+      "center" : [
+        371,
+        104
+      ],
+      "id" : 27,
+      "label" : "check box · Smart Controls · Smart Controls   B, Smart Controls button. Quickly modify the sound of the current patch without having to edit individu… · 0",
+      "px" : [
+        338,
+        74,
+        66,
+        60
+      ],
+      "role" : "AXCheckBox",
+      "screen" : 0,
+      "title" : "Smart Controls"
+    },
+    {
+      "center" : [
+        437,
+        104
+      ],
+      "id" : 28,
+      "label" : "check box · Mixer · Mixer   X, Mixer button. Open the Mixer, which shows channel strips for each track in the project. You can edit channel … · 0",
+      "px" : [
+        404,
+        74,
+        66,
+        60
+      ],
+      "role" : "AXCheckBox",
+      "screen" : 0,
+      "title" : "Mixer"
+    },
+    {
+      "center" : [
+        504,
+        104
+      ],
+      "id" : 29,
+      "label" : "check box · Editors · Editors   E, Editors button. Access editors—Audio Track, Audio File, Session Players, Piano Roll, Score, or Step Editor—… · 0",
+      "px" : [
+        470,
+        74,
+        68,
+        60
+      ],
+      "role" : "AXCheckBox",
+      "screen" : 0,
+      "title" : "Editors"
+    },
+    {
+      "center" : [
+        2065,
+        104
+      ],
+      "id" : 30,
+      "label" : "check box · List Editors · List Editors   D, List Editors button. View and edit MIDI events, markers, tempo changes, and signature events. · 0",
+      "px" : [
+        2032,
+        74,
+        66,
+        60
+      ],
+      "role" : "AXCheckBox",
+      "screen" : 0,
+      "title" : "List Editors"
+    },
+    {
+      "center" : [
+        2131,
+        104
+      ],
+      "id" : 31,
+      "label" : "check box · Note Pads · Note Pads   ⌃⇧P, Note Pads button. Create, view, and edit project and track text notes. · 0",
+      "px" : [
+        2098,
+        74,
+        66,
+        60
+      ],
+      "role" : "AXCheckBox",
+      "screen" : 0,
+      "title" : "Note Pads"
+    },
+    {
+      "center" : [
+        2197,
+        104
+      ],
+      "id" : 32,
+      "label" : "check box · Loop Browser · Loop Browser   O, Loop Browser button. Add prerecorded loops to your project. · 0",
+      "px" : [
+        2164,
+        74,
+        66,
+        60
+      ],
+      "role" : "AXCheckBox",
+      "screen" : 0,
+      "title" : "Loop Browser"
+    },
+    {
+      "center" : [
+        2264,
+        104
+      ],
+      "id" : 33,
+      "label" : "check box · Browsers · Browsers   F, Browsers button. Access audio and other media files. You can also import data and settings from other proj… · 0",
+      "px" : [
+        2230,
+        74,
+        68,
+        60
+      ],
+      "role" : "AXCheckBox",
+      "screen" : 0,
+      "title" : "Browsers"
+    },
+    {
+      "center" : [
+        1578,
+        104
+      ],
+      "id" : 38,
+      "label" : "pop up button · Beats & Project · Display Mode · Display Mode, Display Mode pop-up menu. Switch the ruler display between bars and beats, or hours, minutes, and seconds,…",
+      "px" : [
+        1562,
+        56,
+        32,
+        96
+      ],
+      "role" : "AXPopUpButton",
+      "screen" : 0,
+      "title" : "Beats & Project"
+    },
+    {
+      "center" : [
+        1369,
+        83
+      ],
+      "id" : 40,
+      "label" : "slider · Tempo · Tempo, Tempo display. Indicates the playback or recording speed. Drag vertically to speed up or slow down the tempo, or … · 80",
+      "px" : [
+        1304,
+        60,
+        130,
+        46
+      ],
+      "role" : "AXSlider",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        1369,
+        125
+      ],
+      "id" : 41,
+      "label" : "pop up button · Project Tempo menu, Project Tempo pop-up menu. Choose whether the project tempo is maintained, adapts to the tempo of au…",
+      "px" : [
+        1306,
+        98,
+        126,
+        54
+      ],
+      "role" : "AXPopUpButton",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        1497,
+        89
+      ],
+      "id" : 42,
+      "label" : "pop up button · Time Signature · Time Signature, Time Signature display. Indicates the number of beats in a bar and the note value for one beat. Drag ver… · 4\/4",
+      "px" : [
+        1434,
+        66,
+        126,
+        46
+      ],
+      "role" : "AXPopUpButton",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        1497,
+        129
+      ],
+      "id" : 43,
+      "label" : "pop up button · Key Signature · Key Signature, Key Signature display. Indicates the key signature of the project. Choose a major or minor key signature … · C Major",
+      "px" : [
+        1434,
+        106,
+        126,
+        46
+      ],
+      "role" : "AXPopUpButton",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        983,
+        213
+      ],
+      "id" : 48,
+      "label" : "button · Leave Folder",
+      "px" : [
+        948,
+        190,
+        70,
+        46
+      ],
+      "role" : "AXButton",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        1671,
+        213
+      ],
+      "id" : 51,
+      "label" : "check box · Catch Playhead · Catch Playhead   ` · 1",
+      "px" : [
+        1634,
+        190,
+        74,
+        46
+      ],
+      "role" : "AXCheckBox",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        2094,
+        211
+      ],
+      "id" : 53,
+      "label" : "slider · Vertical Zoom · 0.3948155641555786",
+      "px" : [
+        2046,
+        186,
+        96,
+        50
+      ],
+      "role" : "AXSlider",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        2243,
+        211
+      ],
+      "id" : 54,
+      "label" : "slider · Horizontal Zoom · 0.217904269695282",
+      "px" : [
+        2194,
+        186,
+        98,
+        50
+      ],
+      "role" : "AXSlider",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        1155.6334049105644,
+        98.91552734375
+      ],
+      "id" : 56,
+      "label" : "slider · bar · 6",
+      "px" : [
+        1100.404107093811,
+        71.8310546875,
+        110.45859563350677,
+        54.1689453125
+      ],
+      "role" : "AXSlider",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        1251.8527936339378,
+        98.91552734375
+      ],
+      "id" : 57,
+      "label" : "slider · beat · 2",
+      "px" : [
+        1232.1096943616867,
+        71.8310546875,
+        39.486198544502258,
+        54.1689453125
+      ],
+      "role" : "AXSlider",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        485,
+        211
+      ],
+      "id" : 59,
+      "label" : "disclosure triangle · 1 · _NS:102",
+      "px" : [
+        456,
+        188,
+        58,
+        46
+      ],
+      "role" : "AXDisclosureTriangle",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        761.5,
+        212
+      ],
+      "id" : 60,
+      "label" : "text field · BPM80_Am_Colourful_Orchestra · _NS:141",
+      "px" : [
+        615,
+        192,
+        293,
+        40
+      ],
+      "role" : "AXTextField",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        563.5,
+        212
+      ],
+      "id" : 61,
+      "label" : "static text · Region: · _NS:137",
+      "px" : [
+        516,
+        192,
+        95,
+        40
+      ],
+      "role" : "AXStaticText",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        485,
+        769
+      ],
+      "id" : 62,
+      "label" : "disclosure triangle · 0 · _NS:102",
+      "px" : [
+        456,
+        746,
+        58,
+        46
+      ],
+      "role" : "AXDisclosureTriangle",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        555.5,
+        770
+      ],
+      "id" : 63,
+      "label" : "static text · Track: · _NS:141",
+      "px" : [
+        516,
+        750,
+        79,
+        40
+      ],
+      "role" : "AXStaticText",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        757.5,
+        770
+      ],
+      "id" : 64,
+      "label" : "text field · BPM80_Am_Colourful_Orchestra · _NS:137",
+      "px" : [
+        605,
+        750,
+        305,
+        40
+      ],
+      "role" : "AXTextField",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        1523,
+        213
+      ],
+      "id" : 73,
+      "label" : "check box · Show\/Hide Live Loops Grid · 0",
+      "px" : [
+        1490,
+        190,
+        66,
+        46
+      ],
+      "role" : "AXCheckBox",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        1588,
+        213
+      ],
+      "id" : 74,
+      "label" : "check box · Show\/Hide Tracks area · 1",
+      "px" : [
+        1556,
+        190,
+        64,
+        46
+      ],
+      "role" : "AXCheckBox",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        691,
+        490
+      ],
+      "id" : 79,
+      "label" : "outline · _NS:33",
+      "px" : [
+        454,
+        248,
+        474,
+        484
+      ],
+      "role" : "AXOutline",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        226.5,
+        210
+      ],
+      "id" : 82,
+      "label" : "static text · Library · _NS:16",
+      "px" : [
+        178,
+        192,
+        97,
+        36
+      ],
+      "role" : "AXStaticText",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        59,
+        1863
+      ],
+      "id" : 90,
+      "label" : "pop up button · tools · Action pop-up menu. Access patch merging and user default commands. · _NS:652",
+      "px" : [
+        18,
+        1840,
+        82,
+        46
+      ],
+      "role" : "AXPopUpButton",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        184,
+        1863
+      ],
+      "id" : 91,
+      "label" : "button · Revert · Revert button. Revert to the saved settings for the patch or plug-in preset. As this erases any changes you made, save w… · _NS:674",
+      "px" : [
+        112,
+        1840,
+        144,
+        46
+      ],
+      "role" : "AXButton",
+      "screen" : 0,
+      "title" : "Revert"
+    },
+    {
+      "center" : [
+        362,
+        1863
+      ],
+      "id" : 92,
+      "label" : "button · Save… · Save button. Save the patch or plug-in preset with its current settings as a new patch or plug-in preset. · _NS:692",
+      "px" : [
+        290,
+        1840,
+        144,
+        46
+      ],
+      "role" : "AXButton",
+      "screen" : 0,
+      "title" : "Save…"
+    },
+    {
+      "center" : [
+        573,
+        1874
+      ],
+      "id" : 111,
+      "label" : "text field · name · Name field. Double-click to rename the channel strip. · BPM80_Am_Colourful_Orchestra",
+      "px" : [
+        456,
+        1850,
+        234,
+        48
+      ],
+      "role" : "AXTextField",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        535,
+        1812
+      ],
+      "id" : 112,
+      "label" : "button · mute · Mute button. Silence a channel strip so it’s no longer audible. Use on an aux or output channel strip to silence that pa… · off",
+      "px" : [
+        502,
+        1794,
+        66,
+        36
+      ],
+      "role" : "AXButton",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        607,
+        1812
+      ],
+      "id" : 113,
+      "label" : "button · solo · Solo button. Isolate a channel strip’s signal so that it can be heard alone. Use on an aux or output channel strip to is… · off",
+      "px" : [
+        574,
+        1794,
+        66,
+        36
+      ],
+      "role" : "AXButton",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        591,
+        1772
+      ],
+      "id" : 114,
+      "label" : "button · record · Record Enable button. Prepare the track for recording, or deactivate a record-ready track. The button changes to indicat… · off",
+      "px" : [
+        574,
+        1754,
+        34,
+        36
+      ],
+      "role" : "AXButton",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        624,
+        1772
+      ],
+      "id" : 115,
+      "label" : "button · monitoring · Input Monitoring button. Hear incoming signals on audio or software instrument tracks that aren’t record enabled. This i… · off",
+      "px" : [
+        608,
+        1754,
+        32,
+        36
+      ],
+      "role" : "AXButton",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        536,
+        1610
+      ],
+      "id" : 116,
+      "label" : "slider · volume fader · Volume fader. Set a track’s playback volume. Use on an aux or output channel strip to adjust the volume of that part of … · 173",
+      "px" : [
+        516,
+        1430,
+        40,
+        360
+      ],
+      "role" : "AXSlider",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        535,
+        1412
+      ],
+      "id" : 117,
+      "label" : "text field · volume fader level, 0.0 dB · volume fader level · Volume display. Shows the position of the Volume fader referenced to the dB scale to the left of the Mixer. Positive val…",
+      "px" : [
+        502,
+        1394,
+        66,
+        36
+      ],
+      "role" : "AXTextField",
+      "screen" : 0,
+      "title" : "volume fader level, 0.0 dB"
+    },
+    {
+      "center" : [
+        607,
+        1412
+      ],
+      "id" : 118,
+      "label" : "button · peak level meter, -1.0 dB · peak level meter · Peak Level display. Shows the signal peak during playback. Values above 0 dB turn red to indicate signal clipping. Orang… · signal clipping off",
+      "px" : [
+        574,
+        1394,
+        66,
+        36
+      ],
+      "role" : "AXButton",
+      "screen" : 0,
+      "title" : "peak level meter, -1.0 dB"
+    },
+    {
+      "center" : [
+        571,
+        1347
+      ],
+      "id" : 119,
+      "label" : "slider · pan · Pan\/Balance knob. Drag vertically to position the channel strip signal in the stereo field. · 0",
+      "px" : [
+        534,
+        1310,
+        74,
+        74
+      ],
+      "role" : "AXSlider",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        571,
+        1232
+      ],
+      "id" : 121,
+      "label" : "pop up button · group, Group · group · Group slot. Add the channel strip to a group. You can also define which channel strip controls can be edited for the ent…",
+      "px" : [
+        504,
+        1214,
+        134,
+        36
+      ],
+      "role" : "AXPopUpButton",
+      "screen" : 0,
+      "title" : "group, Group"
+    },
+    {
+      "center" : [
+        571,
+        1186
+      ],
+      "id" : 122,
+      "label" : "button · Stereo Output · Output slot. Click and hold to choose the channel strip output destination—where the channel strip signal is sent.",
+      "px" : [
+        502,
+        1168,
+        138,
+        36
+      ],
+      "role" : "AXButton",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        552,
+        1134
+      ],
+      "id" : 123,
+      "label" : "button · send button · Send slot. Route the signal to an aux channel strip. Use sends to process or submix multiple track output signals.",
+      "px" : [
+        502,
+        1116,
+        100,
+        36
+      ],
+      "role" : "AXButton",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        571,
+        1044
+      ],
+      "id" : 124,
+      "label" : "button · audio plug-in · Audio Effect slot. Insert an audio effect. Click an occupied slot to open the plug-in. Use effects to alter signals in r…",
+      "px" : [
+        502,
+        1026,
+        138,
+        36
+      ],
+      "role" : "AXButton",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        521,
+        994
+      ],
+      "id" : 125,
+      "label" : "button · channel mode · Channel Mode button. Click to switch the channel strip input format between Mono and Stereo. Long-click, then choose Mon… · Stereo",
+      "px" : [
+        502,
+        976,
+        38,
+        36
+      ],
+      "role" : "AXButton",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        590,
+        994
+      ],
+      "id" : 126,
+      "label" : "button · Input 1 · Input slot. Choose the channel strip input source. This can be an input of your audio device (your microphone or instrum…",
+      "px" : [
+        540,
+        976,
+        100,
+        36
+      ],
+      "role" : "AXButton",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        571,
+        919
+      ],
+      "id" : 127,
+      "label" : "button · EQ · EQ display. Click to add a Channel EQ or open an inserted Channel or Linear Phase EQ. Shift-click to add a Linear Phase … · off",
+      "px" : [
+        502,
+        888,
+        138,
+        62
+      ],
+      "role" : "AXButton",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        571,
+        875
+      ],
+      "id" : 128,
+      "label" : "button · gain reduction meter · Gain reduction meter. Shows the gain reduction of the first Compressor plug-in. If no Compressor is inserted, it shows t… · off",
+      "px" : [
+        502,
+        866,
+        138,
+        18
+      ],
+      "role" : "AXButton",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        571,
+        842
+      ],
+      "id" : 129,
+      "label" : "button · setting · Setting button. Load and save channel strip settings, which contain setup information for a channel strip, including plu…",
+      "px" : [
+        502,
+        824,
+        138,
+        36
+      ],
+      "role" : "AXButton",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        552,
+        788
+      ],
+      "id" : 130,
+      "label" : "slider · input gain · Input Gain field and knob. Set the amount of input gain (in decibels). · 0",
+      "px" : [
+        502,
+        770,
+        100,
+        36
+      ],
+      "role" : "AXSlider",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        479,
+        842
+      ],
+      "id" : 131,
+      "label" : "button · library indicator, (null) · Library Focus triangle. Click to view Library content for the highlighted slot. You can also use it to open or close the… · on",
+      "px" : [
+        456,
+        824,
+        46,
+        36
+      ],
+      "role" : "AXButton",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        809,
+        1874
+      ],
+      "id" : 132,
+      "label" : "text field · name · Name field. Double-click to rename the channel strip. · Stereo Out",
+      "px" : [
+        692,
+        1850,
+        234,
+        48
+      ],
+      "role" : "AXTextField",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        771,
+        1812
+      ],
+      "id" : 133,
+      "label" : "button · mute · Mute button. Silence a channel strip so it’s no longer audible. Use on an aux or output channel strip to silence that pa… · off",
+      "px" : [
+        738,
+        1794,
+        66,
+        36
+      ],
+      "role" : "AXButton",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        843,
+        1772
+      ],
+      "id" : 134,
+      "label" : "button · bounce · Bounce button. Render the signal of one or more output channel strips to an audio file, or to multiple audio files. · off",
+      "px" : [
+        810,
+        1754,
+        66,
+        36
+      ],
+      "role" : "AXButton",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        772,
+        1610
+      ],
+      "id" : 135,
+      "label" : "slider · volume fader · Volume fader. Set a track’s playback volume. Use on an aux or output channel strip to adjust the volume of that part of … · 173",
+      "px" : [
+        752,
+        1430,
+        40,
+        360
+      ],
+      "role" : "AXSlider",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        771,
+        1412
+      ],
+      "id" : 136,
+      "label" : "text field · volume fader level, 0.0 dB · volume fader level · Volume display. Shows the position of the Volume fader referenced to the dB scale to the left of the Mixer. Positive val…",
+      "px" : [
+        738,
+        1394,
+        66,
+        36
+      ],
+      "role" : "AXTextField",
+      "screen" : 0,
+      "title" : "volume fader level, 0.0 dB"
+    },
+    {
+      "center" : [
+        843,
+        1412
+      ],
+      "id" : 137,
+      "label" : "button · peak level meter, 2.4 dB · peak level meter · Peak Level display. Shows the signal peak during playback. Values above 0 dB turn red to indicate signal clipping. Orang… · mixed",
+      "px" : [
+        810,
+        1394,
+        66,
+        36
+      ],
+      "role" : "AXButton",
+      "screen" : 0,
+      "title" : "peak level meter, 2.4 dB"
+    },
+    {
+      "center" : [
+        807,
+        1347
+      ],
+      "id" : 138,
+      "label" : "slider · pan · Pan\/Balance knob. Drag vertically to position the channel strip signal in the stereo field. · 0",
+      "px" : [
+        770,
+        1310,
+        74,
+        74
+      ],
+      "role" : "AXSlider",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        807,
+        1232
+      ],
+      "id" : 140,
+      "label" : "pop up button · group, Group · group · Group slot. Add the channel strip to a group. You can also define which channel strip controls can be edited for the ent…",
+      "px" : [
+        740,
+        1214,
+        134,
+        36
+      ],
+      "role" : "AXPopUpButton",
+      "screen" : 0,
+      "title" : "group, Group"
+    },
+    {
+      "center" : [
+        807,
+        1044
+      ],
+      "id" : 141,
+      "label" : "button · audio plug-in · Audio Effect slot. Insert an audio effect. Click an occupied slot to open the plug-in. Use effects to alter signals in r…",
+      "px" : [
+        738,
+        1026,
+        138,
+        36
+      ],
+      "role" : "AXButton",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        807,
+        994
+      ],
+      "id" : 142,
+      "label" : "button · channel mode · Output Channel Mode button. Switches a pair of linked outputs between one stereo channel strip and two mono channel stri… · Stereo",
+      "px" : [
+        738,
+        976,
+        138,
+        36
+      ],
+      "role" : "AXButton",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        807,
+        1080
+      ],
+      "id" : 143,
+      "label" : "button · mastering assistant · Mastering Assistant. Click to insert Mastering Assistant.",
+      "px" : [
+        738,
+        1062,
+        138,
+        36
+      ],
+      "role" : "AXButton",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        807,
+        919
+      ],
+      "id" : 144,
+      "label" : "button · EQ · EQ display. Click to add a Channel EQ or open an inserted Channel or Linear Phase EQ. Shift-click to add a Linear Phase … · off",
+      "px" : [
+        738,
+        888,
+        138,
+        62
+      ],
+      "role" : "AXButton",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        807,
+        875
+      ],
+      "id" : 145,
+      "label" : "button · gain reduction meter · Gain reduction meter. Shows the gain reduction of the first Compressor plug-in. If no Compressor is inserted, it shows t… · off",
+      "px" : [
+        738,
+        866,
+        138,
+        18
+      ],
+      "role" : "AXButton",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        807,
+        842
+      ],
+      "id" : 146,
+      "label" : "button · setting · Setting button. Load and save channel strip settings, which contain setup information for a channel strip, including plu…",
+      "px" : [
+        738,
+        824,
+        138,
+        36
+      ],
+      "role" : "AXButton",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        715,
+        842
+      ],
+      "id" : 147,
+      "label" : "button · library indicator, (null) · Library Focus triangle. Click to view Library content for the highlighted slot. You can also use it to open or close the… · off",
+      "px" : [
+        692,
+        824,
+        46,
+        36
+      ],
+      "role" : "AXButton",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        226,
+        497
+      ],
+      "id" : 148,
+      "label" : "text field · Search field. Search for patches and presets by name. Click the magnifying glass to view recent searches or to clear the… · _NS:337",
+      "px" : [
+        18,
+        472,
+        416,
+        50
+      ],
+      "role" : "AXTextField",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        983,
+        287
+      ],
+      "id" : 151,
+      "label" : "button · Add Tracks   ⌥⌘N · Add Tracks button. Add audio and software instrument tracks. Use tracks for recording, editing, and arranging regions. · 0",
+      "px" : [
+        948,
+        264,
+        70,
+        46
+      ],
+      "role" : "AXButton",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        1069,
+        287
+      ],
+      "id" : 152,
+      "label" : "button · New Track with Duplicate Settings   ⌘D · Duplicate Track button. Create an empty track with the same settings as the selected track. Option-click to create a tra… · 0",
+      "px" : [
+        1034,
+        264,
+        70,
+        46
+      ],
+      "role" : "AXButton",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        1527,
+        287
+      ],
+      "id" : 153,
+      "label" : "check box · Show\/Hide Global Tracks   G · Global Tracks button. Work with global tracks to control various aspects of the overall project, such as arrangement and… · 0",
+      "px" : [
+        1492,
+        264,
+        70,
+        46
+      ],
+      "role" : "AXCheckBox",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        571,
+        1347
+      ],
+      "id" : 186,
+      "label" : "static text · knob readout",
+      "px" : [
+        534,
+        1310,
+        74,
+        74
+      ],
+      "role" : "AXStaticText",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        522,
+        1278
+      ],
+      "id" : 187,
+      "label" : "check box · automation · 1",
+      "px" : [
+        502,
+        1260,
+        40,
+        36
+      ],
+      "role" : "AXCheckBox",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        591,
+        1278
+      ],
+      "id" : 188,
+      "label" : "button · list",
+      "px" : [
+        542,
+        1260,
+        98,
+        36
+      ],
+      "role" : "AXButton",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        807,
+        1347
+      ],
+      "id" : 190,
+      "label" : "static text · knob readout",
+      "px" : [
+        770,
+        1310,
+        74,
+        74
+      ],
+      "role" : "AXStaticText",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        758,
+        1278
+      ],
+      "id" : 191,
+      "label" : "check box · automation · 1",
+      "px" : [
+        738,
+        1260,
+        40,
+        36
+      ],
+      "role" : "AXCheckBox",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        827,
+        1278
+      ],
+      "id" : 192,
+      "label" : "button · list",
+      "px" : [
+        778,
+        1260,
+        98,
+        36
+      ],
+      "role" : "AXButton",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        226.5,
+        1784
+      ],
+      "id" : 195,
+      "label" : "button · Get More Sounds · getMoreSounds",
+      "px" : [
+        70,
+        1763,
+        313,
+        42
+      ],
+      "role" : "AXButton",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        705.08984375,
+        627.88427734375
+      ],
+      "id" : 213,
+      "label" : "slider · Segment 0 · 8",
+      "px" : [
+        696,
+        615.7685546875,
+        18.1796875,
+        24.2314453125
+      ],
+      "role" : "AXSlider",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        719.1728515625,
+        627.88427734375
+      ],
+      "id" : 214,
+      "label" : "slider · Segment 1 · 0",
+      "px" : [
+        710.1796875,
+        615.7685546875,
+        17.986328125,
+        24.2314453125
+      ],
+      "role" : "AXSlider",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        738.9599609375,
+        627.88427734375
+      ],
+      "id" : 215,
+      "label" : "slider · Segment 2 · 0",
+      "px" : [
+        729.966796875,
+        615.7685546875,
+        17.986328125,
+        24.2314453125
+      ],
+      "role" : "AXSlider",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        752.9462890625,
+        627.88427734375
+      ],
+      "id" : 216,
+      "label" : "slider · Segment 3 · 0",
+      "px" : [
+        743.953125,
+        615.7685546875,
+        17.986328125,
+        24.2314453125
+      ],
+      "role" : "AXSlider",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        950,
+        389
+      ],
+      "id" : 221,
+      "label" : "radio button · Has Focus · Track header. Mute or solo the track’s channel strip signal, enable the track for recording, and adjust volume or pan. C… · 0",
+      "px" : [
+        930,
+        324,
+        40,
+        130
+      ],
+      "role" : "AXRadioButton",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        1094,
+        409
+      ],
+      "id" : 223,
+      "label" : "check box · Mute · Mute button. Silence a track’s signal, audibly removing it from project playback. Corresponds to the Mute button on the … · 0",
+      "px" : [
+        1072,
+        390,
+        44,
+        38
+      ],
+      "role" : "AXCheckBox",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        1137,
+        409
+      ],
+      "id" : 224,
+      "label" : "check box · Solo · Solo button. Isolate a track’s signal so that it can be heard without other tracks. Use on an aux or output channel stri… · 0",
+      "px" : [
+        1116,
+        390,
+        42,
+        38
+      ],
+      "role" : "AXCheckBox",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        1188,
+        409
+      ],
+      "id" : 225,
+      "label" : "check box · Record Enable · Record Enable button. Prepare the track for recording, or deactivate a record-ready track. The button changes to indicat… · 0",
+      "px" : [
+        1166,
+        390,
+        44,
+        38
+      ],
+      "role" : "AXCheckBox",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        1231,
+        409
+      ],
+      "id" : 226,
+      "label" : "check box · Input Monitoring · Input Monitoring button. Hear incoming signals on audio or software instrument tracks that aren’t record enabled. This i… · 0",
+      "px" : [
+        1210,
+        390,
+        42,
+        38
+      ],
+      "role" : "AXCheckBox",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        1533,
+        407
+      ],
+      "id" : 227,
+      "label" : "slider · Pan\/Balance knob. Drag vertically to position the track signal in the stereo field. · 64",
+      "px" : [
+        1508,
+        382,
+        50,
+        50
+      ],
+      "role" : "AXSlider",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        1378,
+        408
+      ],
+      "id" : 228,
+      "label" : "slider · Volume · Volume fader. Set a track’s playback volume. Use on an aux or output channel strip to adjust the volume of that part of … · 173",
+      "px" : [
+        1262,
+        390,
+        232,
+        36
+      ],
+      "role" : "AXSlider",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        1309,
+        360
+      ],
+      "id" : 229,
+      "label" : "text field · Deluxe Classic · Name field. Double-click to rename the track. · 0",
+      "px" : [
+        1066,
+        342,
+        486,
+        36
+      ],
+      "role" : "AXTextField",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        950,
+        519
+      ],
+      "id" : 230,
+      "label" : "radio button · Has Focus · Track header. Mute or solo the track’s channel strip signal, enable the track for recording, and adjust volume or pan. C… · 1",
+      "px" : [
+        930,
+        454,
+        40,
+        130
+      ],
+      "role" : "AXRadioButton",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        1094,
+        539
+      ],
+      "id" : 232,
+      "label" : "check box · Mute · Mute button. Silence a track’s signal, audibly removing it from project playback. Corresponds to the Mute button on the … · 0",
+      "px" : [
+        1072,
+        520,
+        44,
+        38
+      ],
+      "role" : "AXCheckBox",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        1137,
+        539
+      ],
+      "id" : 233,
+      "label" : "check box · Solo · Solo button. Isolate a track’s signal so that it can be heard without other tracks. Use on an aux or output channel stri… · 0",
+      "px" : [
+        1116,
+        520,
+        42,
+        38
+      ],
+      "role" : "AXCheckBox",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        1188,
+        539
+      ],
+      "id" : 234,
+      "label" : "check box · Record Enable · Record Enable button. Prepare the track for recording, or deactivate a record-ready track. The button changes to indicat… · 0",
+      "px" : [
+        1166,
+        520,
+        44,
+        38
+      ],
+      "role" : "AXCheckBox",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        1231,
+        539
+      ],
+      "id" : 235,
+      "label" : "check box · Input Monitoring · Input Monitoring button. Hear incoming signals on audio or software instrument tracks that aren’t record enabled. This i… · 0",
+      "px" : [
+        1210,
+        520,
+        42,
+        38
+      ],
+      "role" : "AXCheckBox",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        1533,
+        537
+      ],
+      "id" : 236,
+      "label" : "slider · Pan\/Balance knob. Drag vertically to position the track signal in the stereo field. · 64",
+      "px" : [
+        1508,
+        512,
+        50,
+        50
+      ],
+      "role" : "AXSlider",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        1378,
+        538
+      ],
+      "id" : 237,
+      "label" : "slider · Volume · Volume fader. Set a track’s playback volume. Use on an aux or output channel strip to adjust the volume of that part of … · 173",
+      "px" : [
+        1262,
+        520,
+        232,
+        36
+      ],
+      "role" : "AXSlider",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        1309,
+        490
+      ],
+      "id" : 238,
+      "label" : "text field · BPM80_Am_Colourful_Orchestra · Name field. Double-click to rename the track. · 0",
+      "px" : [
+        1066,
+        472,
+        486,
+        36
+      ],
+      "role" : "AXTextField",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        950,
+        649
+      ],
+      "id" : 239,
+      "label" : "radio button · Has Focus · Track header. Mute or solo the track’s channel strip signal, enable the track for recording, and adjust volume or pan. C… · 0",
+      "px" : [
+        930,
+        584,
+        40,
+        130
+      ],
+      "role" : "AXRadioButton",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        1094,
+        669
+      ],
+      "id" : 241,
+      "label" : "check box · Mute · Mute button. Silence a track’s signal, audibly removing it from project playback. Corresponds to the Mute button on the … · 0",
+      "px" : [
+        1072,
+        650,
+        44,
+        38
+      ],
+      "role" : "AXCheckBox",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        1137,
+        669
+      ],
+      "id" : 242,
+      "label" : "check box · Solo · Solo button. Isolate a track’s signal so that it can be heard without other tracks. Use on an aux or output channel stri… · 0",
+      "px" : [
+        1116,
+        650,
+        42,
+        38
+      ],
+      "role" : "AXCheckBox",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        1188,
+        669
+      ],
+      "id" : 243,
+      "label" : "check box · Record Enable · Record Enable button. Prepare the track for recording, or deactivate a record-ready track. The button changes to indicat… · 0",
+      "px" : [
+        1166,
+        650,
+        44,
+        38
+      ],
+      "role" : "AXCheckBox",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        1231,
+        669
+      ],
+      "id" : 244,
+      "label" : "check box · Input Monitoring · Input Monitoring button. Hear incoming signals on audio or software instrument tracks that aren’t record enabled. This i… · 0",
+      "px" : [
+        1210,
+        650,
+        42,
+        38
+      ],
+      "role" : "AXCheckBox",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        1533,
+        667
+      ],
+      "id" : 245,
+      "label" : "slider · Pan\/Balance knob. Drag vertically to position the track signal in the stereo field. · 64",
+      "px" : [
+        1508,
+        642,
+        50,
+        50
+      ],
+      "role" : "AXSlider",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        1378,
+        668
+      ],
+      "id" : 246,
+      "label" : "slider · Volume · Volume fader. Set a track’s playback volume. Use on an aux or output channel strip to adjust the volume of that part of … · 173",
+      "px" : [
+        1262,
+        650,
+        232,
+        36
+      ],
+      "role" : "AXSlider",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        1309,
+        620
+      ],
+      "id" : 247,
+      "label" : "text field · BPM80_Am_Colourful_Cello_Ensemble · Name field. Double-click to rename the track. · 0",
+      "px" : [
+        1066,
+        602,
+        486,
+        36
+      ],
+      "role" : "AXTextField",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        1786,
+        482
+      ],
+      "id" : 258,
+      "label" : "text field · BPM80_Am_Colourful_Orchestra",
+      "px" : [
+        1602,
+        464,
+        368,
+        36
+      ],
+      "role" : "AXTextField",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        1786,
+        612
+      ],
+      "id" : 262,
+      "label" : "text field · BPM80_Am_Colourful_Cello_Ensemble",
+      "px" : [
+        1602,
+        594,
+        368,
+        36
+      ],
+      "role" : "AXTextField",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        227,
+        557
+      ],
+      "id" : 266,
+      "label" : "static text · Patch category. Choose a category to reveal patches. · Aux",
+      "px" : [
+        0,
+        534,
+        454,
+        46
+      ],
+      "role" : "AXStaticText",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        227,
+        603
+      ],
+      "id" : 267,
+      "label" : "static text · Patch category. Choose a category to reveal patches. · Bass",
+      "px" : [
+        0,
+        580,
+        454,
+        46
+      ],
+      "role" : "AXStaticText",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        227,
+        649
+      ],
+      "id" : 268,
+      "label" : "static text · Patch category. Choose a category to reveal patches. · Drums",
+      "px" : [
+        0,
+        626,
+        454,
+        46
+      ],
+      "role" : "AXStaticText",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        227,
+        695
+      ],
+      "id" : 269,
+      "label" : "static text · Patch category. Choose a category to reveal patches. · Effects",
+      "px" : [
+        0,
+        672,
+        454,
+        46
+      ],
+      "role" : "AXStaticText",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        227,
+        741
+      ],
+      "id" : 270,
+      "label" : "static text · Patch category. Choose a category to reveal patches. · Guitar",
+      "px" : [
+        0,
+        718,
+        454,
+        46
+      ],
+      "role" : "AXStaticText",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        227,
+        787
+      ],
+      "id" : 271,
+      "label" : "static text · Patch category. Choose a category to reveal patches. · Keys",
+      "px" : [
+        0,
+        764,
+        454,
+        46
+      ],
+      "role" : "AXStaticText",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        227,
+        833
+      ],
+      "id" : 272,
+      "label" : "static text · Patch category. Choose a category to reveal patches. · Mix Bus",
+      "px" : [
+        0,
+        810,
+        454,
+        46
+      ],
+      "role" : "AXStaticText",
+      "screen" : 0,
+      "title" : ""
+    },
+    {
+      "center" : [
+        227,
+        879
+      ],
+      "id" : 273,
+      "label" : "static text · Patch category. Choose a category to reveal patches. · Vocal",
+      "px" : [
+        0,
+        856,
+        454,
+        46
+      ],
+      "role" : "AXStaticText",
+      "screen" : 0,
+      "title" : ""
+    }
+  ],
+  "window_bounds_cg" : [
+    -1,
+    32,
+    1161,
+    950
+  ],
+  "window_title" : "Untitled - Tracks"
+}

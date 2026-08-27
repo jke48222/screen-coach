@@ -1,0 +1,719 @@
+{
+  "model": "/Users/jalenedusei/models/holo1.5-7b-4bit",
+  "conditions": {
+    "display": {
+      "accuracy_pct": 40.0,
+      "hits": 4,
+      "n": 10,
+      "megapixels": 3.6652,
+      "image_tokens_est": 4675,
+      "ttft_p50_ms": 6507.643999999971,
+      "ttft_p90_ms": 6685.658333999982,
+      "total_p50_ms": 6980.721665999965,
+      "rows": [
+        {
+          "target": "the Editors button",
+          "hit": false,
+          "dist_px": 36.976465172700955,
+          "ttft_ms": 6685.658333999982,
+          "total_ms": 7153.4130000000005,
+          "px": 3665200,
+          "tokens_est": 4675
+        },
+        {
+          "target": "the Browsers button",
+          "hit": false,
+          "dist_px": 1898.6119936878317,
+          "ttft_ms": 6503.767791999962,
+          "total_ms": 6959.05720799999,
+          "px": 3665200,
+          "tokens_est": 4675
+        },
+        {
+          "target": "the Save\u2026 button",
+          "hit": true,
+          "dist_px": 13.457136105634927,
+          "ttft_ms": 6481.122583000001,
+          "total_ms": 6958.776292000039,
+          "px": 3665200,
+          "tokens_est": 4675
+        },
+        {
+          "target": "the peak level meter, 2.4 dB button",
+          "hit": true,
+          "dist_px": 3.179079504830714,
+          "ttft_ms": 6503.752790999897,
+          "total_ms": 6982.99229099996,
+          "px": 3665200,
+          "tokens_est": 4675
+        },
+        {
+          "target": "the Untitled image",
+          "hit": false,
+          "dist_px": 1854.1061679398574,
+          "ttft_ms": 6453.194625000037,
+          "total_ms": 6959.3988750000335,
+          "px": 3665200,
+          "tokens_est": 4675
+        },
+        {
+          "target": "the peak level meter, -1.0 dB button",
+          "hit": true,
+          "dist_px": 3.2386036216941068,
+          "ttft_ms": 6511.520207999979,
+          "total_ms": 6978.451040999971,
+          "px": 3665200,
+          "tokens_est": 4675
+        },
+        {
+          "target": "the Note Pads button",
+          "hit": false,
+          "dist_px": 1031.7337671358616,
+          "ttft_ms": 6503.559791000043,
+          "total_ms": 6969.407958000033,
+          "px": 3665200,
+          "tokens_est": 4675
+        },
+        {
+          "target": "the Play button",
+          "hit": true,
+          "dist_px": 2.069087237572162,
+          "ttft_ms": 6543.938083000057,
+          "total_ms": 7005.972708000058,
+          "px": 3665200,
+          "tokens_est": 4675
+        },
+        {
+          "target": "the Replace button",
+          "hit": false,
+          "dist_px": 1183.9650730789256,
+          "ttft_ms": 6576.1407920000465,
+          "total_ms": 7047.4658749999435,
+          "px": 3665200,
+          "tokens_est": 4675
+        },
+        {
+          "target": "the Metronome Click button",
+          "hit": false,
+          "dist_px": 1094.9180441186134,
+          "ttft_ms": 6715.599542000064,
+          "total_ms": 7185.982458000012,
+          "px": 3665200,
+          "tokens_est": 4675
+        }
+      ]
+    },
+    "window": {
+      "accuracy_pct": 40.0,
+      "hits": 4,
+      "n": 10,
+      "megapixels": 3.6456,
+      "image_tokens_est": 4650,
+      "ttft_p50_ms": 7309.620499999994,
+      "ttft_p90_ms": 7861.641999999961,
+      "total_p50_ms": 7796.242666500007,
+      "rows": [
+        {
+          "target": "the Editors button",
+          "hit": false,
+          "dist_px": 348.0959275458027,
+          "ttft_ms": 6793.627916999981,
+          "total_ms": 7241.654874999995,
+          "px": 3645600,
+          "tokens_est": 4650
+        },
+        {
+          "target": "the Browsers button",
+          "hit": false,
+          "dist_px": 2085.980273978408,
+          "ttft_ms": 6890.541332999987,
+          "total_ms": 7339.15433300001,
+          "px": 3645600,
+          "tokens_est": 4650
+        },
+        {
+          "target": "the Save\u2026 button",
+          "hit": true,
+          "dist_px": 14.863242961314407,
+          "ttft_ms": 6942.3524590000625,
+          "total_ms": 7434.747792000053,
+          "px": 3645600,
+          "tokens_est": 4650
+        },
+        {
+          "target": "the peak level meter, 2.4 dB button",
+          "hit": true,
+          "dist_px": 10.521997122455643,
+          "ttft_ms": 7077.4194580000085,
+          "total_ms": 7573.179332999985,
+          "px": 3645600,
+          "tokens_est": 4650
+        },
+        {
+          "target": "the Untitled image",
+          "hit": false,
+          "dist_px": 64.13769977998253,
+          "ttft_ms": 7229.098000000022,
+          "total_ms": 7702.228833000049,
+          "px": 3645600,
+          "tokens_est": 4650
+        },
+        {
+          "target": "the peak level meter, -1.0 dB button",
+          "hit": true,
+          "dist_px": 7.164565225715789,
+          "ttft_ms": 7390.142999999966,
+          "total_ms": 7890.256499999964,
+          "px": 3645600,
+          "tokens_est": 4650
+        },
+        {
+          "target": "the Note Pads button",
+          "hit": false,
+          "dist_px": 224.751114315853,
+          "ttft_ms": 7569.356290999963,
+          "total_ms": 8044.887790999951,
+          "px": 3645600,
+          "tokens_est": 4650
+        },
+        {
+          "target": "the Play button",
+          "hit": true,
+          "dist_px": 1.0778845936276322,
+          "ttft_ms": 7806.320916999994,
+          "total_ms": 8265.893375000018,
+          "px": 3645600,
+          "tokens_est": 4650
+        },
+        {
+          "target": "the Replace button",
+          "hit": false,
+          "dist_px": 67.2884940166884,
+          "ttft_ms": 7861.641999999961,
+          "total_ms": 8316.892875000009,
+          "px": 3645600,
+          "tokens_est": 4650
+        },
+        {
+          "target": "the Metronome Click button",
+          "hit": false,
+          "dist_px": 1099.1205199735987,
+          "ttft_ms": 8178.435041000057,
+          "total_ms": 8631.287000000044,
+          "px": 3645600,
+          "tokens_est": 4650
+        }
+      ]
+    },
+    "window@1.0MP": {
+      "accuracy_pct": 40.0,
+      "hits": 4,
+      "n": 10,
+      "megapixels": 0.978432,
+      "image_tokens_est": 1248,
+      "ttft_p50_ms": 2145.5985000000055,
+      "ttft_p90_ms": 2226.861584000062,
+      "total_p50_ms": 2553.3096875000183,
+      "rows": [
+        {
+          "target": "the Editors button",
+          "hit": false,
+          "dist_px": 49.37981243046541,
+          "ttft_ms": 2315.5764580000096,
+          "total_ms": 2740.1711669999713,
+          "px": 978432,
+          "tokens_est": 1248
+        },
+        {
+          "target": "the Browsers button",
+          "hit": false,
+          "dist_px": 2006.7191742619318,
+          "ttft_ms": 2176.509458000055,
+          "total_ms": 2594.563125000036,
+          "px": 978432,
+          "tokens_est": 1248
+        },
+        {
+          "target": "the Save\u2026 button",
+          "hit": true,
+          "dist_px": 20.38503121706426,
+          "ttft_ms": 2187.9378339999676,
+          "total_ms": 2630.522459000076,
+          "px": 978432,
+          "tokens_est": 1248
+        },
+        {
+          "target": "the peak level meter, 2.4 dB button",
+          "hit": true,
+          "dist_px": 26.473974411020183,
+          "ttft_ms": 2213.5747089999995,
+          "total_ms": 2653.950000000009,
+          "px": 978432,
+          "tokens_est": 1248
+        },
+        {
+          "target": "the Untitled image",
+          "hit": false,
+          "dist_px": 110.8086262315073,
+          "ttft_ms": 2226.861584000062,
+          "total_ms": 2627.8693340000245,
+          "px": 978432,
+          "tokens_est": 1248
+        },
+        {
+          "target": "the peak level meter, -1.0 dB button",
+          "hit": true,
+          "dist_px": 9.493046922943385,
+          "ttft_ms": 2114.687541999956,
+          "total_ms": 2512.0562500000005,
+          "px": 978432,
+          "tokens_est": 1248
+        },
+        {
+          "target": "the Note Pads button",
+          "hit": false,
+          "dist_px": 618.0355046514206,
+          "ttft_ms": 1863.2118749999336,
+          "total_ms": 2260.2172910000036,
+          "px": 978432,
+          "tokens_est": 1248
+        },
+        {
+          "target": "the Play button",
+          "hit": true,
+          "dist_px": 10.704062840138029,
+          "ttft_ms": 1873.2082500000615,
+          "total_ms": 2254.492042000038,
+          "px": 978432,
+          "tokens_est": 1248
+        },
+        {
+          "target": "the Replace button",
+          "hit": false,
+          "dist_px": 1979.1764465085362,
+          "ttft_ms": 1892.9701249999198,
+          "total_ms": 2290.840457999934,
+          "px": 978432,
+          "tokens_est": 1248
+        },
+        {
+          "target": "the Metronome Click button",
+          "hit": false,
+          "dist_px": 1591.7713315175426,
+          "ttft_ms": 1904.0340000000242,
+          "total_ms": 2286.5021250000837,
+          "px": 978432,
+          "tokens_est": 1248
+        }
+      ]
+    },
+    "window@0.5MP": {
+      "accuracy_pct": 10.0,
+      "hits": 1,
+      "n": 10,
+      "megapixels": 0.465696,
+      "image_tokens_est": 594,
+      "ttft_p50_ms": 1032.463770999982,
+      "ttft_p90_ms": 1037.9999589999898,
+      "total_p50_ms": 1412.934145999941,
+      "rows": [
+        {
+          "target": "the Editors button",
+          "hit": false,
+          "dist_px": 1535.4514562850432,
+          "ttft_ms": 987.0043749999695,
+          "total_ms": 1361.351999999897,
+          "px": 465696,
+          "tokens_est": 594
+        },
+        {
+          "target": "the Browsers button",
+          "hit": false,
+          "dist_px": 2138.087863096871,
+          "ttft_ms": 1011.2750829999868,
+          "total_ms": 1370.0569999999743,
+          "px": 465696,
+          "tokens_est": 594
+        },
+        {
+          "target": "the Save\u2026 button",
+          "hit": false,
+          "dist_px": 85.89104020591371,
+          "ttft_ms": 1020.1237080000283,
+          "total_ms": 1412.4661249999235,
+          "px": 465696,
+          "tokens_est": 594
+        },
+        {
+          "target": "the peak level meter, 2.4 dB button",
+          "hit": false,
+          "dist_px": 68.58005160264085,
+          "ttft_ms": 1033.009125000035,
+          "total_ms": 1427.1864590000405,
+          "px": 465696,
+          "tokens_est": 594
+        },
+        {
+          "target": "the Untitled image",
+          "hit": false,
+          "dist_px": 133.6639290099142,
+          "ttft_ms": 1037.9999589999898,
+          "total_ms": 1413.4021669999584,
+          "px": 465696,
+          "tokens_est": 594
+        },
+        {
+          "target": "the peak level meter, -1.0 dB button",
+          "hit": false,
+          "dist_px": 79.16541071283014,
+          "ttft_ms": 1030.184792,
+          "total_ms": 1422.426249999944,
+          "px": 465696,
+          "tokens_est": 594
+        },
+        {
+          "target": "the Note Pads button",
+          "hit": false,
+          "dist_px": 561.189789279738,
+          "ttft_ms": 1034.0862920000973,
+          "total_ms": 1410.1667080000198,
+          "px": 465696,
+          "tokens_est": 594
+        },
+        {
+          "target": "the Play button",
+          "hit": true,
+          "dist_px": 9.415094031116965,
+          "ttft_ms": 1041.0041250000859,
+          "total_ms": 1418.4445419999747,
+          "px": 465696,
+          "tokens_est": 594
+        },
+        {
+          "target": "the Replace button",
+          "hit": false,
+          "dist_px": 51.261545396438365,
+          "ttft_ms": 1031.918416999929,
+          "total_ms": 1408.0121249999138,
+          "px": 465696,
+          "tokens_est": 594
+        },
+        {
+          "target": "the Metronome Click button",
+          "hit": false,
+          "dist_px": 1579.0222533734843,
+          "ttft_ms": 1037.1981250000317,
+          "total_ms": 1414.4210420000718,
+          "px": 465696,
+          "tokens_est": 594
+        }
+      ]
+    },
+    "crop2 (native)": {
+      "accuracy_pct": 40.0,
+      "hits": 4,
+      "n": 10,
+      "megapixels": 1.712256,
+      "image_tokens_est": 2184,
+      "ttft_p50_ms": 3511.8435630000135,
+      "ttft_p90_ms": 3584.9514579999777,
+      "total_p50_ms": 3918.1041465000135,
+      "rows": [
+        {
+          "target": "the Editors button",
+          "hit": false,
+          "dist_px": 393.39255568398966,
+          "ttft_ms": 3343.148250000013,
+          "total_ms": 3749.5056660000046,
+          "px": 1712256,
+          "tokens_est": 2184
+        },
+        {
+          "target": "the Browsers button",
+          "hit": false,
+          "dist_px": 211.26823910428433,
+          "ttft_ms": 3305.4180410000527,
+          "total_ms": 3727.0329159999847,
+          "px": 1712256,
+          "tokens_est": 2184
+        },
+        {
+          "target": "the Save\u2026 button",
+          "hit": true,
+          "dist_px": 19.4817494901584,
+          "ttft_ms": 3312.515458000007,
+          "total_ms": 3730.8563330000197,
+          "px": 1712256,
+          "tokens_est": 2184
+        },
+        {
+          "target": "the peak level meter, 2.4 dB button",
+          "hit": false,
+          "dist_px": 68.79150430899814,
+          "ttft_ms": 3482.221417000005,
+          "total_ms": 3886.98208400001,
+          "px": 1712256,
+          "tokens_est": 2184
+        },
+        {
+          "target": "the Untitled image",
+          "hit": true,
+          "dist_px": 1.61729083362792,
+          "ttft_ms": 3318.638958000065,
+          "total_ms": 3726.115457999981,
+          "px": 1712256,
+          "tokens_est": 2184
+        },
+        {
+          "target": "the peak level meter, -1.0 dB button",
+          "hit": true,
+          "dist_px": 5.435603162855656,
+          "ttft_ms": 3607.374875000005,
+          "total_ms": 4016.2930830000505,
+          "px": 1712256,
+          "tokens_est": 2184
+        },
+        {
+          "target": "the Note Pads button",
+          "hit": false,
+          "dist_px": 597.9523879289947,
+          "ttft_ms": 3584.9514579999777,
+          "total_ms": 3993.5401660000025,
+          "px": 1712256,
+          "tokens_est": 2184
+        },
+        {
+          "target": "the Play button",
+          "hit": true,
+          "dist_px": 1.7763160071486157,
+          "ttft_ms": 3573.1576250000217,
+          "total_ms": 3978.8372089999484,
+          "px": 1712256,
+          "tokens_est": 2184
+        },
+        {
+          "target": "the Replace button",
+          "hit": false,
+          "dist_px": 655.3529815396023,
+          "ttft_ms": 3541.465709000022,
+          "total_ms": 3949.2262090000168,
+          "px": 1712256,
+          "tokens_est": 2184
+        },
+        {
+          "target": "the Metronome Click button",
+          "hit": false,
+          "dist_px": 231.35253600875794,
+          "ttft_ms": 3566.8636249999963,
+          "total_ms": 3990.6892919999564,
+          "px": 1712256,
+          "tokens_est": 2184
+        }
+      ]
+    },
+    "crop3 (native)": {
+      "accuracy_pct": 50.0,
+      "hits": 5,
+      "n": 10,
+      "megapixels": 0.76832,
+      "image_tokens_est": 980,
+      "ttft_p50_ms": 1657.4146040000528,
+      "ttft_p90_ms": 1933.364791000031,
+      "total_p50_ms": 2059.7765205000655,
+      "rows": [
+        {
+          "target": "the Editors button",
+          "hit": true,
+          "dist_px": 2.95473720299716,
+          "ttft_ms": 1669.2460420000543,
+          "total_ms": 2073.2110830000465,
+          "px": 768320,
+          "tokens_est": 980
+        },
+        {
+          "target": "the Browsers button",
+          "hit": false,
+          "dist_px": 767.3253383477125,
+          "ttft_ms": 1713.8342089999696,
+          "total_ms": 2119.84187500002,
+          "px": 768320,
+          "tokens_est": 980
+        },
+        {
+          "target": "the Save\u2026 button",
+          "hit": true,
+          "dist_px": 22.605902005841518,
+          "ttft_ms": 1712.523082999951,
+          "total_ms": 2120.0768329999846,
+          "px": 768320,
+          "tokens_est": 980
+        },
+        {
+          "target": "the peak level meter, 2.4 dB button",
+          "hit": true,
+          "dist_px": 16.23709090935037,
+          "ttft_ms": 1933.364791000031,
+          "total_ms": 2347.2662909999826,
+          "px": 900032,
+          "tokens_est": 1148
+        },
+        {
+          "target": "the Untitled image",
+          "hit": false,
+          "dist_px": 53.85017348331737,
+          "ttft_ms": 1939.4562919999316,
+          "total_ms": 2328.4916249999696,
+          "px": 900032,
+          "tokens_est": 1148
+        },
+        {
+          "target": "the peak level meter, -1.0 dB button",
+          "hit": true,
+          "dist_px": 5.109513303380066,
+          "ttft_ms": 1610.5125420000377,
+          "total_ms": 2009.822999999983,
+          "px": 768320,
+          "tokens_est": 980
+        },
+        {
+          "target": "the Note Pads button",
+          "hit": false,
+          "dist_px": 622.6272910983196,
+          "ttft_ms": 1598.5970419999376,
+          "total_ms": 1997.188499999993,
+          "px": 768320,
+          "tokens_est": 980
+        },
+        {
+          "target": "the Play button",
+          "hit": true,
+          "dist_px": 7.255788039125838,
+          "ttft_ms": 1645.5831660000513,
+          "total_ms": 2046.3419580000846,
+          "px": 768320,
+          "tokens_est": 980
+        },
+        {
+          "target": "the Replace button",
+          "hit": false,
+          "dist_px": 64.55247654663066,
+          "ttft_ms": 1610.4842910000343,
+          "total_ms": 2010.43366600004,
+          "px": 768320,
+          "tokens_est": 980
+        },
+        {
+          "target": "the Metronome Click button",
+          "hit": false,
+          "dist_px": 231.5523638338988,
+          "ttft_ms": 1610.4071670000621,
+          "total_ms": 2009.3156670000099,
+          "px": 768320,
+          "tokens_est": 980
+        }
+      ]
+    },
+    "crop4 (native)": {
+      "accuracy_pct": 30.0,
+      "hits": 3,
+      "n": 10,
+      "megapixels": 0.428064,
+      "image_tokens_est": 546,
+      "ttft_p50_ms": 1131.236749999971,
+      "ttft_p90_ms": 1312.404249999986,
+      "total_p50_ms": 1520.2796879999596,
+      "rows": [
+        {
+          "target": "the Editors button",
+          "hit": true,
+          "dist_px": 3.568123102556706,
+          "ttft_ms": 1245.8038339999575,
+          "total_ms": 1634.8109169999816,
+          "px": 428064,
+          "tokens_est": 546
+        },
+        {
+          "target": "the Browsers button",
+          "hit": false,
+          "dist_px": 343.95780095408736,
+          "ttft_ms": 955.2734589999545,
+          "total_ms": 1349.0116250000028,
+          "px": 428064,
+          "tokens_est": 546
+        },
+        {
+          "target": "the Save\u2026 button",
+          "hit": false,
+          "dist_px": 27.817370992900923,
+          "ttft_ms": 990.4167500000085,
+          "total_ms": 1384.9981250000383,
+          "px": 428064,
+          "tokens_est": 546
+        },
+        {
+          "target": "the peak level meter, 2.4 dB button",
+          "hit": false,
+          "dist_px": 35.84316429800465,
+          "ttft_ms": 1336.226791999934,
+          "total_ms": 1737.4614579999843,
+          "px": 607600,
+          "tokens_est": 775
+        },
+        {
+          "target": "the Untitled image",
+          "hit": false,
+          "dist_px": 32.21619642307167,
+          "ttft_ms": 1138.3367500000077,
+          "total_ms": 1516.6067919999477,
+          "px": 510384,
+          "tokens_est": 651
+        },
+        {
+          "target": "the peak level meter, -1.0 dB button",
+          "hit": true,
+          "dist_px": 10.44568834277804,
+          "ttft_ms": 1312.404249999986,
+          "total_ms": 1709.2984170000136,
+          "px": 607600,
+          "tokens_est": 775
+        },
+        {
+          "target": "the Note Pads button",
+          "hit": false,
+          "dist_px": 222.24238187419738,
+          "ttft_ms": 961.6174170000704,
+          "total_ms": 1354.250167000032,
+          "px": 428064,
+          "tokens_est": 546
+        },
+        {
+          "target": "the Play button",
+          "hit": true,
+          "dist_px": 3.1453172177945397,
+          "ttft_ms": 1133.4979580000208,
+          "total_ms": 1529.814166000051,
+          "px": 510384,
+          "tokens_est": 651
+        },
+        {
+          "target": "the Replace button",
+          "hit": false,
+          "dist_px": 62.411795763055366,
+          "ttft_ms": 1128.975541999921,
+          "total_ms": 1523.9525839999715,
+          "px": 510384,
+          "tokens_est": 651
+        },
+        {
+          "target": "the Metronome Click button",
+          "hit": false,
+          "dist_px": 229.35060609646007,
+          "ttft_ms": 1016.5466660000675,
+          "total_ms": 1407.7157080000688,
+          "px": 428064,
+          "tokens_est": 546
+        }
+      ]
+    }
+  }
+}

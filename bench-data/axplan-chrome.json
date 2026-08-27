@@ -1,0 +1,300 @@
+{
+  "ax_hit_rate": 1,
+  "image_size": [
+    3024,
+    1964
+  ],
+  "plans": [
+    {
+      "ax_hit": true,
+      "ax_score": 0.9562499999999999,
+      "ax_top": "AXButton:",
+      "crop_confidence": 0,
+      "crop_contains_target": true,
+      "crop_fraction": 1,
+      "crop_px": [
+        0,
+        66,
+        3024,
+        1898
+      ],
+      "crop_source": "no usable match",
+      "crop_whole_window": true,
+      "id": 34,
+      "query": "the New Tab button",
+      "target_px": [
+        728,
+        68,
+        56,
+        82
+      ]
+    },
+    {
+      "ax_hit": true,
+      "ax_score": 1.02,
+      "ax_top": "AXButton:",
+      "crop_confidence": 0,
+      "crop_contains_target": true,
+      "crop_fraction": 1,
+      "crop_px": [
+        0,
+        66,
+        3024,
+        1898
+      ],
+      "crop_source": "no usable match",
+      "crop_whole_window": true,
+      "id": 45,
+      "query": "the Back button",
+      "target_px": [
+        0,
+        160,
+        80,
+        68
+      ]
+    },
+    {
+      "ax_hit": true,
+      "ax_score": 1.02,
+      "ax_top": "AXButton:",
+      "crop_confidence": 0,
+      "crop_contains_target": true,
+      "crop_fraction": 1,
+      "crop_px": [
+        0,
+        66,
+        3024,
+        1898
+      ],
+      "crop_source": "no usable match",
+      "crop_whole_window": true,
+      "id": 47,
+      "query": "the Reload button",
+      "target_px": [
+        156,
+        160,
+        68,
+        68
+      ]
+    },
+    {
+      "ax_hit": true,
+      "ax_score": 0.99875,
+      "ax_top": "AXButton:",
+      "crop_confidence": 0,
+      "crop_contains_target": true,
+      "crop_fraction": 1,
+      "crop_px": [
+        0,
+        66,
+        3024,
+        1898
+      ],
+      "crop_source": "no usable match",
+      "crop_whole_window": true,
+      "id": 51,
+      "query": "the Control your music, videos, and more button",
+      "target_px": [
+        2800,
+        160,
+        68,
+        68
+      ]
+    },
+    {
+      "ax_hit": true,
+      "ax_score": 1.02,
+      "ax_top": "AXButton:",
+      "crop_confidence": 0,
+      "crop_contains_target": true,
+      "crop_fraction": 1,
+      "crop_px": [
+        0,
+        66,
+        3024,
+        1898
+      ],
+      "crop_source": "no usable match",
+      "crop_whole_window": true,
+      "id": 52,
+      "query": "the Jalen button",
+      "target_px": [
+        2872,
+        160,
+        68,
+        68
+      ]
+    },
+    {
+      "ax_hit": true,
+      "ax_score": 0.65875,
+      "ax_top": "AXButton:",
+      "crop_confidence": 0.595,
+      "crop_contains_target": true,
+      "crop_fraction": 0.08640674394099052,
+      "crop_px": [
+        0,
+        192,
+        3024,
+        164
+      ],
+      "crop_source": "AXPopUpButton:description",
+      "crop_whole_window": false,
+      "id": 56,
+      "query": "[redacted bookmark or page title 1]",
+      "target_px": [
+        420,
+        246,
+        134,
+        56
+      ]
+    },
+    {
+      "ax_hit": true,
+      "ax_score": 0.65875,
+      "ax_top": "AXButton:",
+      "crop_confidence": 0.65875,
+      "crop_contains_target": true,
+      "crop_fraction": 0.12360379346680717,
+      "crop_px": [
+        0,
+        121.7,
+        3024,
+        234.60000000000002
+      ],
+      "crop_source": "AXButton:description",
+      "crop_whole_window": false,
+      "id": 57,
+      "query": "the YouTube button in the Bookmarks",
+      "target_px": [
+        562,
+        246,
+        164,
+        56
+      ]
+    },
+    {
+      "ax_hit": true,
+      "ax_score": 0.65875,
+      "ax_top": "AXButton:",
+      "crop_confidence": 0.595,
+      "crop_contains_target": true,
+      "crop_fraction": 0.08640674394099052,
+      "crop_px": [
+        0,
+        192,
+        3024,
+        164
+      ],
+      "crop_source": "AXPopUpButton:description",
+      "crop_whole_window": false,
+      "id": 58,
+      "query": "the Maps button in the Bookmarks",
+      "target_px": [
+        734,
+        246,
+        130,
+        56
+      ]
+    },
+    {
+      "ax_hit": true,
+      "ax_score": 0.65875,
+      "ax_top": "AXButton:",
+      "crop_confidence": 0.595,
+      "crop_contains_target": true,
+      "crop_fraction": 0.08640674394099052,
+      "crop_px": [
+        0,
+        192,
+        3024,
+        164
+      ],
+      "crop_source": "AXPopUpButton:description",
+      "crop_whole_window": false,
+      "id": 59,
+      "query": "the Translate button in the Bookmarks",
+      "target_px": [
+        872,
+        246,
+        172,
+        56
+      ]
+    },
+    {
+      "ax_hit": true,
+      "ax_score": 0.65875,
+      "ax_top": "AXButton:",
+      "crop_confidence": 0.595,
+      "crop_contains_target": true,
+      "crop_fraction": 0.17175974710221287,
+      "crop_px": [
+        0,
+        66,
+        3024,
+        326
+      ],
+      "crop_source": "AXPopUpButton:description",
+      "crop_whole_window": false,
+      "id": 60,
+      "query": "the News button in the Bookmarks",
+      "target_px": [
+        1052,
+        246,
+        132,
+        56
+      ]
+    },
+    {
+      "ax_hit": true,
+      "ax_score": 0.65875,
+      "ax_top": "AXButton:",
+      "crop_confidence": 0.595,
+      "crop_contains_target": true,
+      "crop_fraction": 0.08640674394099052,
+      "crop_px": [
+        0,
+        192,
+        3024,
+        164
+      ],
+      "crop_source": "AXPopUpButton:description",
+      "crop_whole_window": false,
+      "id": 61,
+      "query": "[redacted bookmark or page title 2]",
+      "target_px": [
+        1192,
+        246,
+        112,
+        56
+      ]
+    },
+    {
+      "ax_hit": true,
+      "ax_score": 0.65875,
+      "ax_top": "AXButton:",
+      "crop_confidence": 0.595,
+      "crop_contains_target": true,
+      "crop_fraction": 0.08640674394099052,
+      "crop_px": [
+        0,
+        192,
+        3024,
+        164
+      ],
+      "crop_source": "AXPopUpButton:description",
+      "crop_whole_window": false,
+      "id": 62,
+      "query": "[redacted bookmark or page title 3]",
+      "target_px": [
+        1312,
+        246,
+        148,
+        56
+      ]
+    }
+  ],
+  "resolve_p50_ms": 0.067166,
+  "resolve_p90_ms": 0.080708,
+  "source": "bench-data/google-chrome.json"
+}

@@ -1,0 +1,118 @@
+{
+  "model": "mlx-community/holo1.5-7b-mlx",
+  "load_s": 6.589404417000026,
+  "weights_gb": 16.585335816,
+  "scopes": {
+    "window": {
+      "image": "logic-pro.png",
+      "input_px": [
+        2322,
+        1900
+      ],
+      "encoder_px": [
+        2100,
+        1736
+      ],
+      "accuracy_pct": 50.0,
+      "hits": 5,
+      "n": 10,
+      "ttft_p50_ms": 7131.582333500006,
+      "ttft_p90_ms": 8166.337333000001,
+      "total_p50_ms": 8442.341666500013,
+      "total_p90_ms": 9473.145916000021,
+      "peak_gb": 17.978744074,
+      "rows": [
+        {
+          "target": "the Editors button",
+          "hit": false,
+          "dist_px": 393.5814816875771,
+          "ttft_ms": 38970.684042000015,
+          "total_ms": 40275.37637500001,
+          "tokens": 23,
+          "raw": "{\"action\": \"click_absolute\", \"x\": 100, \"y\": 85}"
+        },
+        {
+          "target": "the Browsers button",
+          "hit": false,
+          "dist_px": 2828.1283426835007,
+          "ttft_ms": 6585.329709000007,
+          "total_ms": 7855.544750000007,
+          "tokens": 24,
+          "raw": "{\"action\": \"click_absolute\", \"x\": 43, \"y\": 1700}"
+        },
+        {
+          "target": "the Save\u2026 button",
+          "hit": true,
+          "dist_px": 13.908789480490025,
+          "ttft_ms": 6483.752917000003,
+          "total_ms": 7814.796167000026,
+          "tokens": 25,
+          "raw": "{\"action\": \"click_absolute\", \"x\": 315, \"y\": 1700}"
+        },
+        {
+          "target": "the peak level meter, 2.4 dB button",
+          "hit": true,
+          "dist_px": 10.09886789019832,
+          "ttft_ms": 6932.117833999996,
+          "total_ms": 8315.108750000007,
+          "tokens": 25,
+          "raw": "{\"action\": \"click_absolute\", \"x\": 770, \"y\": 1285}"
+        },
+        {
+          "target": "the Untitled image",
+          "hit": false,
+          "dist_px": 92.8956957268069,
+          "ttft_ms": 6875.454375000004,
+          "total_ms": 8233.249540999992,
+          "tokens": 24,
+          "raw": "{\"action\": \"click_absolute\", \"x\": 1030, \"y\": 25}"
+        },
+        {
+          "target": "the peak level meter, -1.0 dB button",
+          "hit": true,
+          "dist_px": 3.603103922385792,
+          "ttft_ms": 8166.337333000001,
+          "total_ms": 9473.145916000021,
+          "tokens": 25,
+          "raw": "{\"action\": \"click_absolute\", \"x\": 550, \"y\": 1287}"
+        },
+        {
+          "target": "the Note Pads button",
+          "hit": false,
+          "dist_px": 619.4272820681961,
+          "ttft_ms": 7266.736124999994,
+          "total_ms": 8676.54995800001,
+          "tokens": 25,
+          "raw": "{\"action\": \"click_absolute\", \"x\": 1375, \"y\": 190}"
+        },
+        {
+          "target": "the Play button",
+          "hit": true,
+          "dist_px": 5.582364221297353,
+          "ttft_ms": 7375.400792000022,
+          "total_ms": 8569.57458300002,
+          "tokens": 23,
+          "raw": "{\"action\": \"click_absolute\", \"x\": 653, \"y\": 90}"
+        },
+        {
+          "target": "the Replace button",
+          "hit": false,
+          "dist_px": 67.28931852181852,
+          "ttft_ms": 6996.428542000018,
+          "total_ms": 8221.436083000015,
+          "tokens": 24,
+          "raw": "{\"action\": \"click_absolute\", \"x\": 1554, \"y\": 94}"
+        },
+        {
+          "target": "the Metronome Click button",
+          "hit": true,
+          "dist_px": 5.9109865274580935,
+          "ttft_ms": 7384.894374999987,
+          "total_ms": 8598.824250000007,
+          "tokens": 24,
+          "raw": "{\"action\": \"click_absolute\", \"x\": 1780, \"y\": 90}"
+        }
+      ]
+    }
+  }
+}

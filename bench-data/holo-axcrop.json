@@ -1,0 +1,299 @@
+{
+  "model": "/Users/jalenedusei/models/holo1.5-7b-4bit",
+  "results": {
+    "full": [
+      {
+        "query": "the New Tab button",
+        "hit": true,
+        "dist_px": 1.4401294411969594,
+        "ttft_ms": 7768.806083000527,
+        "tokens": 4675,
+        "crop_covered_target": true
+      },
+      {
+        "query": "the Back button",
+        "hit": true,
+        "dist_px": 3.5033415366978526,
+        "ttft_ms": 7421.781042001385,
+        "tokens": 4675,
+        "crop_covered_target": true
+      },
+      {
+        "query": "the Reload button",
+        "hit": true,
+        "dist_px": 4.71492262379332,
+        "ttft_ms": 7249.744624999948,
+        "tokens": 4675,
+        "crop_covered_target": true
+      },
+      {
+        "query": "the Control your music, videos, and more button",
+        "hit": true,
+        "dist_px": 7.832377146393784,
+        "ttft_ms": 6983.305417001247,
+        "tokens": 4675,
+        "crop_covered_target": true
+      },
+      {
+        "query": "the Jalen button",
+        "hit": false,
+        "dist_px": 2093.0437037886168,
+        "ttft_ms": 6601.268333999542,
+        "tokens": 4675,
+        "crop_covered_target": true
+      },
+      {
+        "query": "[redacted bookmark or page title 1]",
+        "hit": true,
+        "dist_px": 28.355782775002844,
+        "ttft_ms": 6598.511334001159,
+        "tokens": 4675,
+        "crop_covered_target": true
+      },
+      {
+        "query": "the YouTube button in the Bookmarks",
+        "hit": false,
+        "dist_px": 1726.9179850952771,
+        "ttft_ms": 6578.454624999722,
+        "tokens": 4675,
+        "crop_covered_target": true
+      },
+      {
+        "query": "the Maps button in the Bookmarks",
+        "hit": true,
+        "dist_px": 15.516858835879894,
+        "ttft_ms": 6602.669666999645,
+        "tokens": 4675,
+        "crop_covered_target": true
+      },
+      {
+        "query": "the Translate button in the Bookmarks",
+        "hit": true,
+        "dist_px": 8.982869887375932,
+        "ttft_ms": 6939.657082999474,
+        "tokens": 4675,
+        "crop_covered_target": true
+      },
+      {
+        "query": "the News button in the Bookmarks",
+        "hit": true,
+        "dist_px": 7.648499966087585,
+        "ttft_ms": 7174.856666000778,
+        "tokens": 4675,
+        "crop_covered_target": true
+      },
+      {
+        "query": "[redacted bookmark or page title 2]",
+        "hit": true,
+        "dist_px": 14.299705269364413,
+        "ttft_ms": 7025.868458000332,
+        "tokens": 4675,
+        "crop_covered_target": true
+      },
+      {
+        "query": "[redacted bookmark or page title 3]",
+        "hit": true,
+        "dist_px": 6.727305936022728,
+        "ttft_ms": 7095.678375000716,
+        "tokens": 4675,
+        "crop_covered_target": true
+      }
+    ],
+    "crop3": [
+      {
+        "query": "the New Tab button",
+        "hit": true,
+        "dist_px": 3.457385047818037,
+        "ttft_ms": 1844.1557089990965,
+        "tokens": 1305,
+        "crop_covered_target": true
+      },
+      {
+        "query": "the Back button",
+        "hit": true,
+        "dist_px": 4.249107575530379,
+        "ttft_ms": 1904.1055830002733,
+        "tokens": 1305,
+        "crop_covered_target": true
+      },
+      {
+        "query": "the Reload button",
+        "hit": true,
+        "dist_px": 4.3039368271828575,
+        "ttft_ms": 1904.1435830004048,
+        "tokens": 1305,
+        "crop_covered_target": true
+      },
+      {
+        "query": "the Control your music, videos, and more button",
+        "hit": true,
+        "dist_px": 1.8771979683509254,
+        "ttft_ms": 2008.5685840003862,
+        "tokens": 1305,
+        "crop_covered_target": true
+      },
+      {
+        "query": "the Jalen button",
+        "hit": true,
+        "dist_px": 1.8771979683509254,
+        "ttft_ms": 1943.316834000143,
+        "tokens": 1305,
+        "crop_covered_target": true
+      },
+      {
+        "query": "[redacted bookmark or page title 1]",
+        "hit": true,
+        "dist_px": 13.038216134052297,
+        "ttft_ms": 1999.9076660005812,
+        "tokens": 1305,
+        "crop_covered_target": true
+      },
+      {
+        "query": "the YouTube button in the Bookmarks",
+        "hit": true,
+        "dist_px": 0.9975369458128398,
+        "ttft_ms": 2023.3006250000471,
+        "tokens": 1305,
+        "crop_covered_target": true
+      },
+      {
+        "query": "the Maps button in the Bookmarks",
+        "hit": true,
+        "dist_px": 15.033132739328208,
+        "ttft_ms": 2060.319583999444,
+        "tokens": 1305,
+        "crop_covered_target": true
+      },
+      {
+        "query": "the Translate button in the Bookmarks",
+        "hit": true,
+        "dist_px": 17.02924190791421,
+        "ttft_ms": 2088.1727089999913,
+        "tokens": 1305,
+        "crop_covered_target": true
+      },
+      {
+        "query": "the News button in the Bookmarks",
+        "hit": true,
+        "dist_px": 1.4124729938167344,
+        "ttft_ms": 2528.8746669994,
+        "tokens": 1566,
+        "crop_covered_target": true
+      },
+      {
+        "query": "[redacted bookmark or page title 2]",
+        "hit": true,
+        "dist_px": 11.04513829511707,
+        "ttft_ms": 2580.409750000399,
+        "tokens": 1566,
+        "crop_covered_target": true
+      },
+      {
+        "query": "[redacted bookmark or page title 3]",
+        "hit": true,
+        "dist_px": 16.031066089261238,
+        "ttft_ms": 2639.3911250015663,
+        "tokens": 1566,
+        "crop_covered_target": true
+      }
+    ],
+    "axcrop": [
+      {
+        "query": "the New Tab button",
+        "hit": true,
+        "dist_px": 4.274610126531179,
+        "ttft_ms": 8487.88550000063,
+        "tokens": 4644,
+        "crop_covered_target": true
+      },
+      {
+        "query": "the Back button",
+        "hit": true,
+        "dist_px": 5.349255523992726,
+        "ttft_ms": 8707.259666000027,
+        "tokens": 4644,
+        "crop_covered_target": true
+      },
+      {
+        "query": "the Reload button",
+        "hit": true,
+        "dist_px": 1.2712816995515168,
+        "ttft_ms": 8997.990125000797,
+        "tokens": 4644,
+        "crop_covered_target": true
+      },
+      {
+        "query": "the Control your music, videos, and more button",
+        "hit": true,
+        "dist_px": 1.5028860982089374,
+        "ttft_ms": 9303.563792000205,
+        "tokens": 4644,
+        "crop_covered_target": true
+      },
+      {
+        "query": "the Jalen button",
+        "hit": false,
+        "dist_px": 2086.7079525081936,
+        "ttft_ms": 9593.694291999782,
+        "tokens": 4644,
+        "crop_covered_target": true
+      },
+      {
+        "query": "[redacted bookmark or page title 1]",
+        "hit": true,
+        "dist_px": 48.741142575773075,
+        "ttft_ms": 1390.3027910000674,
+        "tokens": 648,
+        "crop_covered_target": true
+      },
+      {
+        "query": "the YouTube button in the Bookmarks",
+        "hit": false,
+        "dist_px": 997.3294833173263,
+        "ttft_ms": 1890.9130000010919,
+        "tokens": 864,
+        "crop_covered_target": true
+      },
+      {
+        "query": "the Maps button in the Bookmarks",
+        "hit": true,
+        "dist_px": 30.32653919575787,
+        "ttft_ms": 1457.879999999932,
+        "tokens": 648,
+        "crop_covered_target": true
+      },
+      {
+        "query": "the Translate button in the Bookmarks",
+        "hit": true,
+        "dist_px": 51.29034002218974,
+        "ttft_ms": 1492.3602910002955,
+        "tokens": 648,
+        "crop_covered_target": true
+      },
+      {
+        "query": "the News button in the Bookmarks",
+        "hit": true,
+        "dist_px": 4.016988442244351,
+        "ttft_ms": 2827.2430839988374,
+        "tokens": 1296,
+        "crop_covered_target": true
+      },
+      {
+        "query": "[redacted bookmark or page title 2]",
+        "hit": true,
+        "dist_px": 34.332185767757906,
+        "ttft_ms": 1492.6383750007517,
+        "tokens": 648,
+        "crop_covered_target": true
+      },
+      {
+        "query": "[redacted bookmark or page title 3]",
+        "hit": true,
+        "dist_px": 26.35714285714289,
+        "ttft_ms": 1596.406750000824,
+        "tokens": 648,
+        "crop_covered_target": true
+      }
+    ]
+  }
+}

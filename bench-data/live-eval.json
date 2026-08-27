@@ -1,0 +1,390 @@
+{
+  "summary": {
+    "ax_only": {
+      "accuracy_pct": 100.0,
+      "hits": 12,
+      "n": 12,
+      "p50_ms": 0.07,
+      "median_tokens": 0.0
+    },
+    "vision_full": {
+      "accuracy_pct": 91.66666666666666,
+      "hits": 11,
+      "n": 12,
+      "p50_ms": 7316.877999999633,
+      "median_tokens": 4675.0
+    },
+    "vision_axcrop": {
+      "accuracy_pct": 83.33333333333334,
+      "hits": 10,
+      "n": 12,
+      "p50_ms": 1204.202520999388,
+      "median_tokens": 756.0
+    },
+    "hybrid": {
+      "accuracy_pct": 100.0,
+      "hits": 12,
+      "n": 12,
+      "p50_ms": 0.07,
+      "median_tokens": 0.0
+    }
+  },
+  "rows": {
+    "ax_only": [
+      {
+        "app": "Google Chrome",
+        "query": "the New Tab button",
+        "hit": true,
+        "ms": 0.07,
+        "tokens": 0
+      },
+      {
+        "app": "Google Chrome",
+        "query": "the Back button",
+        "hit": true,
+        "ms": 0.07,
+        "tokens": 0
+      },
+      {
+        "app": "Google Chrome",
+        "query": "the Reload button",
+        "hit": true,
+        "ms": 0.07,
+        "tokens": 0
+      },
+      {
+        "app": "Google Chrome",
+        "query": "the Control your music, videos, and more button",
+        "hit": true,
+        "ms": 0.07,
+        "tokens": 0
+      },
+      {
+        "app": "Google Chrome",
+        "query": "the Jalen button",
+        "hit": true,
+        "ms": 0.07,
+        "tokens": 0
+      },
+      {
+        "app": "Google Chrome",
+        "query": "[redacted bookmark or page title 1]",
+        "hit": true,
+        "ms": 0.07,
+        "tokens": 0
+      },
+      {
+        "app": "Google Chrome",
+        "query": "the YouTube button in the Bookmarks",
+        "hit": true,
+        "ms": 0.07,
+        "tokens": 0
+      },
+      {
+        "app": "Google Chrome",
+        "query": "the Maps button in the Bookmarks",
+        "hit": true,
+        "ms": 0.07,
+        "tokens": 0
+      },
+      {
+        "app": "Google Chrome",
+        "query": "the Translate button in the Bookmarks",
+        "hit": true,
+        "ms": 0.07,
+        "tokens": 0
+      },
+      {
+        "app": "Google Chrome",
+        "query": "the News button in the Bookmarks",
+        "hit": true,
+        "ms": 0.07,
+        "tokens": 0
+      },
+      {
+        "app": "Google Chrome",
+        "query": "[redacted bookmark or page title 2]",
+        "hit": true,
+        "ms": 0.07,
+        "tokens": 0
+      },
+      {
+        "app": "Google Chrome",
+        "query": "[redacted bookmark or page title 3]",
+        "hit": true,
+        "ms": 0.07,
+        "tokens": 0
+      }
+    ],
+    "vision_full": [
+      {
+        "app": "Google Chrome",
+        "query": "the New Tab button",
+        "hit": true,
+        "ms": 7138.580082999397,
+        "tokens": 4675
+      },
+      {
+        "app": "Google Chrome",
+        "query": "the Back button",
+        "hit": true,
+        "ms": 7012.2472919974825,
+        "tokens": 4675
+      },
+      {
+        "app": "Google Chrome",
+        "query": "the Reload button",
+        "hit": true,
+        "ms": 7203.864875002182,
+        "tokens": 4675
+      },
+      {
+        "app": "Google Chrome",
+        "query": "the Control your music, videos, and more button",
+        "hit": true,
+        "ms": 7279.503791996831,
+        "tokens": 4675
+      },
+      {
+        "app": "Google Chrome",
+        "query": "the Jalen button",
+        "hit": false,
+        "ms": 7354.2522080024355,
+        "tokens": 4675
+      },
+      {
+        "app": "Google Chrome",
+        "query": "[redacted bookmark or page title 1]",
+        "hit": true,
+        "ms": 7456.726333999541,
+        "tokens": 4675
+      },
+      {
+        "app": "Google Chrome",
+        "query": "the YouTube button in the Bookmarks",
+        "hit": true,
+        "ms": 7576.5907499990135,
+        "tokens": 4675
+      },
+      {
+        "app": "Google Chrome",
+        "query": "the Maps button in the Bookmarks",
+        "hit": true,
+        "ms": 7141.707874998247,
+        "tokens": 4675
+      },
+      {
+        "app": "Google Chrome",
+        "query": "the Translate button in the Bookmarks",
+        "hit": true,
+        "ms": 7431.20241699944,
+        "tokens": 4675
+      },
+      {
+        "app": "Google Chrome",
+        "query": "the News button in the Bookmarks",
+        "hit": true,
+        "ms": 7382.492708999052,
+        "tokens": 4675
+      },
+      {
+        "app": "Google Chrome",
+        "query": "[redacted bookmark or page title 2]",
+        "hit": true,
+        "ms": 7377.456334001181,
+        "tokens": 4675
+      },
+      {
+        "app": "Google Chrome",
+        "query": "[redacted bookmark or page title 3]",
+        "hit": true,
+        "ms": 6553.567999999359,
+        "tokens": 4675
+      }
+    ],
+    "vision_axcrop": [
+      {
+        "app": "Google Chrome",
+        "query": "the New Tab button",
+        "hit": true,
+        "ms": 6970.373541000299,
+        "tokens": 4675
+      },
+      {
+        "app": "Google Chrome",
+        "query": "the Back button",
+        "hit": true,
+        "ms": 7068.111082997348,
+        "tokens": 4675
+      },
+      {
+        "app": "Google Chrome",
+        "query": "the Reload button",
+        "hit": true,
+        "ms": 7190.323040998919,
+        "tokens": 4675
+      },
+      {
+        "app": "Google Chrome",
+        "query": "the Control your music, videos, and more button",
+        "hit": true,
+        "ms": 7326.105500000267,
+        "tokens": 4675
+      },
+      {
+        "app": "Google Chrome",
+        "query": "the Jalen button",
+        "hit": false,
+        "ms": 7348.818958998891,
+        "tokens": 4675
+      },
+      {
+        "app": "Google Chrome",
+        "query": "[redacted bookmark or page title 1]",
+        "hit": true,
+        "ms": 1057.726040999114,
+        "tokens": 648
+      },
+      {
+        "app": "Google Chrome",
+        "query": "the YouTube button in the Bookmarks",
+        "hit": false,
+        "ms": 1338.8564170018071,
+        "tokens": 864
+      },
+      {
+        "app": "Google Chrome",
+        "query": "the Maps button in the Bookmarks",
+        "hit": true,
+        "ms": 1069.548624996969,
+        "tokens": 648
+      },
+      {
+        "app": "Google Chrome",
+        "query": "the Translate button in the Bookmarks",
+        "hit": true,
+        "ms": 1034.3232910017832,
+        "tokens": 648
+      },
+      {
+        "app": "Google Chrome",
+        "query": "the News button in the Bookmarks",
+        "hit": true,
+        "ms": 1032.5332920001529,
+        "tokens": 648
+      },
+      {
+        "app": "Google Chrome",
+        "query": "[redacted bookmark or page title 2]",
+        "hit": true,
+        "ms": 1018.393999998807,
+        "tokens": 648
+      },
+      {
+        "app": "Google Chrome",
+        "query": "[redacted bookmark or page title 3]",
+        "hit": true,
+        "ms": 903.7587499988149,
+        "tokens": 648
+      }
+    ],
+    "hybrid": [
+      {
+        "app": "Google Chrome",
+        "query": "the New Tab button",
+        "hit": true,
+        "ms": 0.07,
+        "tokens": 0,
+        "via": "ax"
+      },
+      {
+        "app": "Google Chrome",
+        "query": "the Back button",
+        "hit": true,
+        "ms": 0.07,
+        "tokens": 0,
+        "via": "ax"
+      },
+      {
+        "app": "Google Chrome",
+        "query": "the Reload button",
+        "hit": true,
+        "ms": 0.07,
+        "tokens": 0,
+        "via": "ax"
+      },
+      {
+        "app": "Google Chrome",
+        "query": "the Control your music, videos, and more button",
+        "hit": true,
+        "ms": 0.07,
+        "tokens": 0,
+        "via": "ax"
+      },
+      {
+        "app": "Google Chrome",
+        "query": "the Jalen button",
+        "hit": true,
+        "ms": 0.07,
+        "tokens": 0,
+        "via": "ax"
+      },
+      {
+        "app": "Google Chrome",
+        "query": "[redacted bookmark or page title 1]",
+        "hit": true,
+        "ms": 0.07,
+        "tokens": 0,
+        "via": "ax"
+      },
+      {
+        "app": "Google Chrome",
+        "query": "the YouTube button in the Bookmarks",
+        "hit": true,
+        "ms": 0.07,
+        "tokens": 0,
+        "via": "ax"
+      },
+      {
+        "app": "Google Chrome",
+        "query": "the Maps button in the Bookmarks",
+        "hit": true,
+        "ms": 0.07,
+        "tokens": 0,
+        "via": "ax"
+      },
+      {
+        "app": "Google Chrome",
+        "query": "the Translate button in the Bookmarks",
+        "hit": true,
+        "ms": 0.07,
+        "tokens": 0,
+        "via": "ax"
+      },
+      {
+        "app": "Google Chrome",
+        "query": "the News button in the Bookmarks",
+        "hit": true,
+        "ms": 0.07,
+        "tokens": 0,
+        "via": "ax"
+      },
+      {
+        "app": "Google Chrome",
+        "query": "[redacted bookmark or page title 2]",
+        "hit": true,
+        "ms": 0.07,
+        "tokens": 0,
+        "via": "ax"
+      },
+      {
+        "app": "Google Chrome",
+        "query": "[redacted bookmark or page title 3]",
+        "hit": true,
+        "ms": 0.07,
+        "tokens": 0,
+        "via": "ax"
+      }
+    ]
+  }
+}

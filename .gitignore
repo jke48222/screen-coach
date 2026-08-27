@@ -1,0 +1,17 @@
+# Swift build output
+.build/
+build/
+*.xcodeproj
+*.xcworkspace
+DerivedData/
+.swiftpm/
+
+# Benchmark screenshots are captures of a real desktop session, including
+# logged-in accounts, bookmarks, and personalized content. The JSON in
+# bench-data carries every number the findings log cites, so the images stay
+# local rather than being published.
+bench-data/*.png
+
+# Local machine state
+.DS_Store
+*.log

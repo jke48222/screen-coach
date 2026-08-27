@@ -1,0 +1,2471 @@
+{
+  "app": "Google Chrome",
+  "ax_extract_ms": 33.873833,
+  "ax_nodes_total": 111,
+  "display": {
+    "image": "google-chrome-display.png",
+    "image_size": [
+      3024,
+      1964
+    ],
+    "scale": 2
+  },
+  "image": "google-chrome-display.png",
+  "image_size": [
+    3024,
+    1964
+  ],
+  "nodes": [
+    {
+      "depth": 0,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 0,
+      "identifier": "",
+      "parent": -1,
+      "px": [
+        0,
+        310,
+        3024,
+        1654
+      ],
+      "role": "AXWindow",
+      "title": "[redacted bookmark or page title 4]"
+    },
+    {
+      "depth": 1,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 1,
+      "identifier": "",
+      "parent": 0,
+      "px": [
+        0,
+        310,
+        3024,
+        1654
+      ],
+      "role": "AXGroup",
+      "title": "[redacted bookmark or page title 4]"
+    },
+    {
+      "depth": 1,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 2,
+      "identifier": "",
+      "parent": 0,
+      "px": [
+        0,
+        66,
+        3024,
+        348
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 2,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 3,
+      "identifier": "",
+      "parent": 1,
+      "px": [
+        0,
+        310,
+        3024,
+        1654
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 2,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 4,
+      "identifier": "",
+      "parent": 1,
+      "px": [
+        0,
+        148,
+        3024,
+        162
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 2,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 5,
+      "identifier": "",
+      "parent": 1,
+      "px": [
+        0,
+        66,
+        3024,
+        82
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 2,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 6,
+      "identifier": "",
+      "parent": 2,
+      "px": [
+        0,
+        66,
+        3024,
+        80
+      ],
+      "role": "AXToolbar",
+      "title": ""
+    },
+    {
+      "depth": 2,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 7,
+      "identifier": "",
+      "parent": 2,
+      "px": [
+        0,
+        148,
+        3024,
+        162
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 2,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 8,
+      "identifier": "",
+      "parent": 2,
+      "px": [
+        0,
+        66,
+        3024,
+        82
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 2,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 9,
+      "identifier": "",
+      "parent": 2,
+      "px": [
+        24,
+        91,
+        32,
+        32
+      ],
+      "role": "AXButton",
+      "title": ""
+    },
+    {
+      "depth": 2,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 10,
+      "identifier": "",
+      "parent": 2,
+      "px": [
+        116,
+        91,
+        32,
+        32
+      ],
+      "role": "AXButton",
+      "title": ""
+    },
+    {
+      "depth": 3,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 11,
+      "identifier": "",
+      "parent": 3,
+      "px": [
+        0,
+        310,
+        3024,
+        1654
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 3,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 12,
+      "identifier": "",
+      "parent": 4,
+      "px": [
+        0,
+        148,
+        3024,
+        162
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 3,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 13,
+      "identifier": "",
+      "parent": 4,
+      "px": [
+        0,
+        66,
+        3024,
+        82
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 3,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 14,
+      "identifier": "",
+      "parent": 5,
+      "px": [
+        0,
+        66,
+        3024,
+        82
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 3,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 15,
+      "identifier": "",
+      "parent": 7,
+      "px": [
+        0,
+        148,
+        3024,
+        162
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 3,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 16,
+      "identifier": "",
+      "parent": 7,
+      "px": [
+        0,
+        66,
+        3024,
+        82
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 3,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 17,
+      "identifier": "",
+      "parent": 8,
+      "px": [
+        0,
+        66,
+        3024,
+        82
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 3,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 18,
+      "identifier": "",
+      "parent": 10,
+      "px": [
+        118,
+        93,
+        28,
+        28
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 4,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 19,
+      "identifier": "",
+      "parent": 11,
+      "px": [
+        0,
+        310,
+        3024,
+        1654
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 4,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 20,
+      "identifier": "",
+      "parent": 12,
+      "px": [
+        0,
+        148,
+        3024,
+        162
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 4,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 21,
+      "identifier": "",
+      "parent": 13,
+      "px": [
+        0,
+        66,
+        3024,
+        82
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 4,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 22,
+      "identifier": "",
+      "parent": 14,
+      "px": [
+        0,
+        66,
+        3024,
+        82
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 4,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 23,
+      "identifier": "",
+      "parent": 15,
+      "px": [
+        0,
+        148,
+        3024,
+        162
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 4,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 24,
+      "identifier": "",
+      "parent": 16,
+      "px": [
+        0,
+        66,
+        3024,
+        82
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 4,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 25,
+      "identifier": "",
+      "parent": 17,
+      "px": [
+        0,
+        66,
+        3024,
+        82
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 5,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 26,
+      "identifier": "",
+      "parent": 19,
+      "px": [
+        0,
+        310,
+        3024,
+        1654
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 5,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 28,
+      "identifier": "",
+      "parent": 20,
+      "px": [
+        0,
+        148,
+        3024,
+        92
+      ],
+      "role": "AXToolbar",
+      "title": ""
+    },
+    {
+      "depth": 5,
+      "desc": "Bookmarks",
+      "enabled": true,
+      "help": "",
+      "id": 29,
+      "identifier": "",
+      "parent": 20,
+      "px": [
+        0,
+        240,
+        3024,
+        68
+      ],
+      "role": "AXToolbar",
+      "title": ""
+    },
+    {
+      "depth": 5,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 30,
+      "identifier": "",
+      "parent": 20,
+      "px": [
+        0,
+        308,
+        3024,
+        2
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 5,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 31,
+      "identifier": "",
+      "parent": 21,
+      "px": [
+        0,
+        66,
+        3024,
+        82
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 5,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 32,
+      "identifier": "",
+      "parent": 22,
+      "px": [
+        184,
+        68,
+        56,
+        82
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 5,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 33,
+      "identifier": "",
+      "parent": 22,
+      "px": [
+        228,
+        68,
+        512,
+        80
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 5,
+      "desc": "New Tab",
+      "enabled": true,
+      "help": "",
+      "id": 34,
+      "identifier": "",
+      "parent": 22,
+      "px": [
+        728,
+        68,
+        56,
+        82
+      ],
+      "role": "AXButton",
+      "title": ""
+    },
+    {
+      "depth": 5,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 35,
+      "identifier": "",
+      "parent": 22,
+      "px": [
+        808,
+        68,
+        1968,
+        80
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 5,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 36,
+      "identifier": "",
+      "parent": 22,
+      "px": [
+        2776,
+        68,
+        248,
+        80
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 5,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 37,
+      "identifier": "",
+      "parent": 23,
+      "px": [
+        0,
+        148,
+        3024,
+        92
+      ],
+      "role": "AXToolbar",
+      "title": ""
+    },
+    {
+      "depth": 5,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 38,
+      "identifier": "",
+      "parent": 23,
+      "px": [
+        0,
+        308,
+        3024,
+        2
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 5,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 39,
+      "identifier": "",
+      "parent": 24,
+      "px": [
+        0,
+        66,
+        3024,
+        82
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 5,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 40,
+      "identifier": "",
+      "parent": 25,
+      "px": [
+        184,
+        68,
+        56,
+        82
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 5,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 41,
+      "identifier": "",
+      "parent": 25,
+      "px": [
+        228,
+        68,
+        512,
+        80
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 5,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 42,
+      "identifier": "",
+      "parent": 25,
+      "px": [
+        808,
+        68,
+        1968,
+        80
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 5,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 43,
+      "identifier": "",
+      "parent": 25,
+      "px": [
+        2776,
+        68,
+        248,
+        80
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 6,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 44,
+      "identifier": "",
+      "parent": 26,
+      "px": [
+        0,
+        310,
+        3024,
+        1654
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 6,
+      "desc": "Back",
+      "enabled": true,
+      "help": "",
+      "id": 45,
+      "identifier": "",
+      "parent": 28,
+      "px": [
+        0,
+        160,
+        80,
+        68
+      ],
+      "role": "AXButton",
+      "title": ""
+    },
+    {
+      "depth": 6,
+      "desc": "Forward",
+      "enabled": false,
+      "help": "",
+      "id": 46,
+      "identifier": "",
+      "parent": 28,
+      "px": [
+        84,
+        160,
+        68,
+        68
+      ],
+      "role": "AXButton",
+      "title": ""
+    },
+    {
+      "depth": 6,
+      "desc": "Reload",
+      "enabled": true,
+      "help": "",
+      "id": 47,
+      "identifier": "",
+      "parent": 28,
+      "px": [
+        156,
+        160,
+        68,
+        68
+      ],
+      "role": "AXButton",
+      "title": ""
+    },
+    {
+      "depth": 6,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 48,
+      "identifier": "",
+      "parent": 28,
+      "px": [
+        242,
+        160,
+        2360,
+        68
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 6,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 49,
+      "identifier": "",
+      "parent": 28,
+      "px": [
+        2620,
+        160,
+        140,
+        68
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 6,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 50,
+      "identifier": "",
+      "parent": 28,
+      "px": [
+        2778,
+        178,
+        4,
+        32
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 6,
+      "desc": "Control your music, videos, and more",
+      "enabled": true,
+      "help": "",
+      "id": 51,
+      "identifier": "",
+      "parent": 28,
+      "px": [
+        2800,
+        160,
+        68,
+        68
+      ],
+      "role": "AXButton",
+      "title": ""
+    },
+    {
+      "depth": 6,
+      "desc": "Jalen",
+      "enabled": true,
+      "help": "",
+      "id": 52,
+      "identifier": "",
+      "parent": 28,
+      "px": [
+        2872,
+        160,
+        68,
+        68
+      ],
+      "role": "AXButton",
+      "title": ""
+    },
+    {
+      "depth": 6,
+      "desc": "Chrome",
+      "enabled": true,
+      "help": "",
+      "id": 53,
+      "identifier": "",
+      "parent": 28,
+      "px": [
+        2944,
+        160,
+        80,
+        68
+      ],
+      "role": "AXPopUpButton",
+      "title": ""
+    },
+    {
+      "depth": 6,
+      "desc": "Saved Tab Groups",
+      "enabled": true,
+      "help": "",
+      "id": 54,
+      "identifier": "",
+      "parent": 29,
+      "px": [
+        12,
+        246,
+        388,
+        56
+      ],
+      "role": "AXToolbar",
+      "title": ""
+    },
+    {
+      "depth": 6,
+      "desc": "Separator",
+      "enabled": true,
+      "help": "",
+      "id": 55,
+      "identifier": "",
+      "parent": 29,
+      "px": [
+        400,
+        258,
+        20,
+        32
+      ],
+      "role": "AXSplitter",
+      "title": ""
+    },
+    {
+      "depth": 6,
+      "desc": "[redacted bookmark or page title 5]",
+      "enabled": true,
+      "help": "",
+      "id": 56,
+      "identifier": "",
+      "parent": 29,
+      "px": [
+        420,
+        246,
+        134,
+        56
+      ],
+      "role": "AXButton",
+      "title": ""
+    },
+    {
+      "depth": 6,
+      "desc": "YouTube",
+      "enabled": true,
+      "help": "",
+      "id": 57,
+      "identifier": "",
+      "parent": 29,
+      "px": [
+        562,
+        246,
+        164,
+        56
+      ],
+      "role": "AXButton",
+      "title": ""
+    },
+    {
+      "depth": 6,
+      "desc": "Maps",
+      "enabled": true,
+      "help": "",
+      "id": 58,
+      "identifier": "",
+      "parent": 29,
+      "px": [
+        734,
+        246,
+        130,
+        56
+      ],
+      "role": "AXButton",
+      "title": ""
+    },
+    {
+      "depth": 6,
+      "desc": "Translate",
+      "enabled": true,
+      "help": "",
+      "id": 59,
+      "identifier": "",
+      "parent": 29,
+      "px": [
+        872,
+        246,
+        172,
+        56
+      ],
+      "role": "AXButton",
+      "title": ""
+    },
+    {
+      "depth": 6,
+      "desc": "News",
+      "enabled": true,
+      "help": "",
+      "id": 60,
+      "identifier": "",
+      "parent": 29,
+      "px": [
+        1052,
+        246,
+        132,
+        56
+      ],
+      "role": "AXButton",
+      "title": ""
+    },
+    {
+      "depth": 6,
+      "desc": "[redacted bookmark or page title 6]",
+      "enabled": true,
+      "help": "",
+      "id": 61,
+      "identifier": "",
+      "parent": 29,
+      "px": [
+        1192,
+        246,
+        112,
+        56
+      ],
+      "role": "AXButton",
+      "title": ""
+    },
+    {
+      "depth": 6,
+      "desc": "[redacted bookmark or page title 7]",
+      "enabled": true,
+      "help": "",
+      "id": 62,
+      "identifier": "",
+      "parent": 29,
+      "px": [
+        1312,
+        246,
+        148,
+        56
+      ],
+      "role": "AXButton",
+      "title": ""
+    },
+    {
+      "depth": 6,
+      "desc": "[redacted bookmark or page title 8]",
+      "enabled": true,
+      "help": "",
+      "id": 63,
+      "identifier": "",
+      "parent": 29,
+      "px": [
+        1468,
+        246,
+        158,
+        56
+      ],
+      "role": "AXButton",
+      "title": ""
+    },
+    {
+      "depth": 6,
+      "desc": "[redacted bookmark or page title 9]",
+      "enabled": true,
+      "help": "",
+      "id": 64,
+      "identifier": "",
+      "parent": 29,
+      "px": [
+        1634,
+        246,
+        176,
+        56
+      ],
+      "role": "AXButton",
+      "title": ""
+    },
+    {
+      "depth": 6,
+      "desc": "Google",
+      "enabled": true,
+      "help": "",
+      "id": 65,
+      "identifier": "",
+      "parent": 29,
+      "px": [
+        1818,
+        246,
+        150,
+        56
+      ],
+      "role": "AXButton",
+      "title": ""
+    },
+    {
+      "depth": 6,
+      "desc": "Apple",
+      "enabled": true,
+      "help": "",
+      "id": 66,
+      "identifier": "",
+      "parent": 29,
+      "px": [
+        1976,
+        246,
+        134,
+        56
+      ],
+      "role": "AXButton",
+      "title": ""
+    },
+    {
+      "depth": 6,
+      "desc": "Wikipedia",
+      "enabled": true,
+      "help": "",
+      "id": 67,
+      "identifier": "",
+      "parent": 29,
+      "px": [
+        2118,
+        246,
+        180,
+        56
+      ],
+      "role": "AXButton",
+      "title": ""
+    },
+    {
+      "depth": 6,
+      "desc": "YouTube",
+      "enabled": true,
+      "help": "",
+      "id": 68,
+      "identifier": "",
+      "parent": 29,
+      "px": [
+        2306,
+        246,
+        164,
+        56
+      ],
+      "role": "AXButton",
+      "title": ""
+    },
+    {
+      "depth": 6,
+      "desc": "Netflix",
+      "enabled": true,
+      "help": "",
+      "id": 69,
+      "identifier": "",
+      "parent": 29,
+      "px": [
+        2478,
+        246,
+        142,
+        56
+      ],
+      "role": "AXButton",
+      "title": ""
+    },
+    {
+      "depth": 6,
+      "desc": "Menu containing hidden bookmarks",
+      "enabled": true,
+      "help": "",
+      "id": 70,
+      "identifier": "",
+      "parent": 29,
+      "px": [
+        2678,
+        246,
+        56,
+        56
+      ],
+      "role": "AXPopUpButton",
+      "title": ""
+    },
+    {
+      "depth": 6,
+      "desc": "All Bookmarks",
+      "enabled": true,
+      "help": "",
+      "id": 71,
+      "identifier": "",
+      "parent": 29,
+      "px": [
+        2770,
+        246,
+        238,
+        56
+      ],
+      "role": "AXPopUpButton",
+      "title": ""
+    },
+    {
+      "depth": 6,
+      "desc": "Separator",
+      "enabled": true,
+      "help": "",
+      "id": 72,
+      "identifier": "",
+      "parent": 29,
+      "px": [
+        2734,
+        258,
+        36,
+        32
+      ],
+      "role": "AXSplitter",
+      "title": ""
+    },
+    {
+      "depth": 6,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 73,
+      "identifier": "",
+      "parent": 31,
+      "px": [
+        184,
+        68,
+        56,
+        82
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 6,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 74,
+      "identifier": "",
+      "parent": 31,
+      "px": [
+        228,
+        68,
+        512,
+        80
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 6,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 75,
+      "identifier": "",
+      "parent": 31,
+      "px": [
+        808,
+        68,
+        1968,
+        80
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 6,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 76,
+      "identifier": "",
+      "parent": 31,
+      "px": [
+        2776,
+        68,
+        248,
+        80
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 6,
+      "desc": "Tab Search",
+      "enabled": true,
+      "help": "",
+      "id": 77,
+      "identifier": "",
+      "parent": 32,
+      "px": [
+        184,
+        80,
+        56,
+        56
+      ],
+      "role": "AXPopUpButton",
+      "title": ""
+    },
+    {
+      "depth": 6,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 78,
+      "identifier": "",
+      "parent": 33,
+      "px": [
+        228,
+        68,
+        512,
+        80
+      ],
+      "role": "AXTabGroup",
+      "title": ""
+    },
+    {
+      "depth": 6,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 79,
+      "identifier": "",
+      "parent": 33,
+      "px": [
+        228,
+        68,
+        512,
+        80
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 6,
+      "desc": "Open Gemini in Chrome",
+      "enabled": true,
+      "help": "",
+      "id": 80,
+      "identifier": "",
+      "parent": 36,
+      "px": [
+        2776,
+        68,
+        248,
+        80
+      ],
+      "role": "AXButton",
+      "title": ""
+    },
+    {
+      "depth": 6,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 81,
+      "identifier": "",
+      "parent": 37,
+      "px": [
+        242,
+        160,
+        2360,
+        68
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 6,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 82,
+      "identifier": "",
+      "parent": 37,
+      "px": [
+        2620,
+        160,
+        140,
+        68
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 6,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 83,
+      "identifier": "",
+      "parent": 37,
+      "px": [
+        2778,
+        178,
+        4,
+        32
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 6,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 84,
+      "identifier": "",
+      "parent": 39,
+      "px": [
+        184,
+        68,
+        56,
+        82
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 6,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 85,
+      "identifier": "",
+      "parent": 39,
+      "px": [
+        228,
+        68,
+        512,
+        80
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 6,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 86,
+      "identifier": "",
+      "parent": 39,
+      "px": [
+        808,
+        68,
+        1968,
+        80
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 6,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 87,
+      "identifier": "",
+      "parent": 39,
+      "px": [
+        2776,
+        68,
+        248,
+        80
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 6,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 88,
+      "identifier": "",
+      "parent": 41,
+      "px": [
+        228,
+        68,
+        512,
+        80
+      ],
+      "role": "AXTabGroup",
+      "title": ""
+    },
+    {
+      "depth": 6,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 89,
+      "identifier": "",
+      "parent": 41,
+      "px": [
+        228,
+        68,
+        512,
+        80
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 7,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 90,
+      "identifier": "",
+      "parent": 44,
+      "px": [
+        0,
+        310,
+        3024,
+        1654
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 7,
+      "desc": "View site information",
+      "enabled": true,
+      "help": "",
+      "id": 91,
+      "identifier": "",
+      "parent": 48,
+      "px": [
+        252,
+        170,
+        48,
+        48
+      ],
+      "role": "AXPopUpButton",
+      "title": ""
+    },
+    {
+      "depth": 7,
+      "desc": "Address and search bar",
+      "enabled": true,
+      "help": "",
+      "id": 92,
+      "identifier": "",
+      "parent": 48,
+      "px": [
+        316,
+        170,
+        2134,
+        48
+      ],
+      "role": "AXTextField",
+      "title": ""
+    },
+    {
+      "depth": 7,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 93,
+      "identifier": "",
+      "parent": 48,
+      "px": [
+        2466,
+        170,
+        112,
+        48
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 7,
+      "desc": "Paperwork Goblin\nWants access to this site",
+      "enabled": true,
+      "help": "",
+      "id": 95,
+      "identifier": "",
+      "parent": 49,
+      "px": [
+        2620,
+        160,
+        68,
+        68
+      ],
+      "role": "AXPopUpButton",
+      "title": ""
+    },
+    {
+      "depth": 7,
+      "desc": "Extensions",
+      "enabled": true,
+      "help": "",
+      "id": 96,
+      "identifier": "",
+      "parent": 49,
+      "px": [
+        2692,
+        160,
+        68,
+        68
+      ],
+      "role": "AXPopUpButton",
+      "title": ""
+    },
+    {
+      "depth": 7,
+      "desc": "[redacted bookmark or page title 10]",
+      "enabled": true,
+      "help": "",
+      "id": 97,
+      "identifier": "",
+      "parent": 54,
+      "px": [
+        12,
+        254,
+        300,
+        40
+      ],
+      "role": "AXButton",
+      "title": ""
+    },
+    {
+      "depth": 7,
+      "desc": "Tab groups",
+      "enabled": true,
+      "help": "",
+      "id": 98,
+      "identifier": "",
+      "parent": 54,
+      "px": [
+        328,
+        246,
+        56,
+        56
+      ],
+      "role": "AXButton",
+      "title": ""
+    },
+    {
+      "depth": 7,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 99,
+      "identifier": "",
+      "parent": 74,
+      "px": [
+        228,
+        68,
+        512,
+        80
+      ],
+      "role": "AXTabGroup",
+      "title": ""
+    },
+    {
+      "depth": 7,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 100,
+      "identifier": "",
+      "parent": 74,
+      "px": [
+        228,
+        68,
+        512,
+        80
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 7,
+      "desc": "[redacted bookmark or page title 11]",
+      "enabled": true,
+      "help": "",
+      "id": 101,
+      "identifier": "",
+      "parent": 78,
+      "px": [
+        228,
+        68,
+        512,
+        82
+      ],
+      "role": "AXRadioButton",
+      "title": ""
+    },
+    {
+      "depth": 7,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 102,
+      "identifier": "",
+      "parent": 81,
+      "px": [
+        2466,
+        170,
+        112,
+        48
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 7,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 104,
+      "identifier": "",
+      "parent": 85,
+      "px": [
+        228,
+        68,
+        512,
+        80
+      ],
+      "role": "AXTabGroup",
+      "title": ""
+    },
+    {
+      "depth": 7,
+      "desc": "",
+      "enabled": true,
+      "help": "",
+      "id": 105,
+      "identifier": "",
+      "parent": 85,
+      "px": [
+        228,
+        68,
+        512,
+        80
+      ],
+      "role": "AXGroup",
+      "title": ""
+    },
+    {
+      "depth": 8,
+      "desc": "Install YouTube",
+      "enabled": true,
+      "help": "",
+      "id": 107,
+      "identifier": "",
+      "parent": 93,
+      "px": [
+        2466,
+        170,
+        48,
+        48
+      ],
+      "role": "AXButton",
+      "title": ""
+    },
+    {
+      "depth": 8,
+      "desc": "Bookmark this tab",
+      "enabled": true,
+      "help": "",
+      "id": 108,
+      "identifier": "",
+      "parent": 93,
+      "px": [
+        2530,
+        170,
+        48,
+        48
+      ],
+      "role": "AXButton",
+      "title": ""
+    },
+    {
+      "depth": 8,
+      "desc": "Mute tab",
+      "enabled": false,
+      "help": "",
+      "id": 109,
+      "identifier": "",
+      "parent": 101,
+      "px": [
+        620,
+        92,
+        32,
+        32
+      ],
+      "role": "AXButton",
+      "title": ""
+    },
+    {
+      "depth": 8,
+      "desc": "Close",
+      "enabled": true,
+      "help": "",
+      "id": 110,
+      "identifier": "",
+      "parent": 101,
+      "px": [
+        656,
+        80,
+        56,
+        56
+      ],
+      "role": "AXButton",
+      "title": ""
+    }
+  ],
+  "targets": [
+    {
+      "center": [
+        756,
+        109
+      ],
+      "id": 34,
+      "label": "button \u00b7 New Tab",
+      "px": [
+        728,
+        68,
+        56,
+        82
+      ],
+      "role": "AXButton",
+      "screen": 0,
+      "title": ""
+    },
+    {
+      "center": [
+        40,
+        194
+      ],
+      "id": 45,
+      "label": "button \u00b7 Back",
+      "px": [
+        0,
+        160,
+        80,
+        68
+      ],
+      "role": "AXButton",
+      "screen": 0,
+      "title": ""
+    },
+    {
+      "center": [
+        118,
+        194
+      ],
+      "id": 46,
+      "label": "button \u00b7 Forward",
+      "px": [
+        84,
+        160,
+        68,
+        68
+      ],
+      "role": "AXButton",
+      "screen": 0,
+      "title": ""
+    },
+    {
+      "center": [
+        190,
+        194
+      ],
+      "id": 47,
+      "label": "button \u00b7 Reload",
+      "px": [
+        156,
+        160,
+        68,
+        68
+      ],
+      "role": "AXButton",
+      "screen": 0,
+      "title": ""
+    },
+    {
+      "center": [
+        2834,
+        194
+      ],
+      "id": 51,
+      "label": "button \u00b7 Control your music, videos, and more",
+      "px": [
+        2800,
+        160,
+        68,
+        68
+      ],
+      "role": "AXButton",
+      "screen": 0,
+      "title": ""
+    },
+    {
+      "center": [
+        2906,
+        194
+      ],
+      "id": 52,
+      "label": "button \u00b7 Jalen",
+      "px": [
+        2872,
+        160,
+        68,
+        68
+      ],
+      "role": "AXButton",
+      "screen": 0,
+      "title": ""
+    },
+    {
+      "center": [
+        2984,
+        194
+      ],
+      "id": 53,
+      "label": "pop up button \u00b7 Chrome",
+      "px": [
+        2944,
+        160,
+        80,
+        68
+      ],
+      "role": "AXPopUpButton",
+      "screen": 0,
+      "title": ""
+    },
+    {
+      "center": [
+        487,
+        274
+      ],
+      "id": 56,
+      "label": "[redacted bookmark or page title 12]",
+      "px": [
+        420,
+        246,
+        134,
+        56
+      ],
+      "role": "AXButton",
+      "screen": 0,
+      "title": ""
+    },
+    {
+      "center": [
+        644,
+        274
+      ],
+      "id": 57,
+      "label": "button \u00b7 YouTube",
+      "px": [
+        562,
+        246,
+        164,
+        56
+      ],
+      "role": "AXButton",
+      "screen": 0,
+      "title": ""
+    },
+    {
+      "center": [
+        799,
+        274
+      ],
+      "id": 58,
+      "label": "button \u00b7 Maps",
+      "px": [
+        734,
+        246,
+        130,
+        56
+      ],
+      "role": "AXButton",
+      "screen": 0,
+      "title": ""
+    },
+    {
+      "center": [
+        958,
+        274
+      ],
+      "id": 59,
+      "label": "button \u00b7 Translate",
+      "px": [
+        872,
+        246,
+        172,
+        56
+      ],
+      "role": "AXButton",
+      "screen": 0,
+      "title": ""
+    },
+    {
+      "center": [
+        1118,
+        274
+      ],
+      "id": 60,
+      "label": "button \u00b7 News",
+      "px": [
+        1052,
+        246,
+        132,
+        56
+      ],
+      "role": "AXButton",
+      "screen": 0,
+      "title": ""
+    },
+    {
+      "center": [
+        1248,
+        274
+      ],
+      "id": 61,
+      "label": "[redacted bookmark or page title 13]",
+      "px": [
+        1192,
+        246,
+        112,
+        56
+      ],
+      "role": "AXButton",
+      "screen": 0,
+      "title": ""
+    },
+    {
+      "center": [
+        1386,
+        274
+      ],
+      "id": 62,
+      "label": "[redacted bookmark or page title 14]",
+      "px": [
+        1312,
+        246,
+        148,
+        56
+      ],
+      "role": "AXButton",
+      "screen": 0,
+      "title": ""
+    },
+    {
+      "center": [
+        1547,
+        274
+      ],
+      "id": 63,
+      "label": "[redacted bookmark or page title 15]",
+      "px": [
+        1468,
+        246,
+        158,
+        56
+      ],
+      "role": "AXButton",
+      "screen": 0,
+      "title": ""
+    },
+    {
+      "center": [
+        1722,
+        274
+      ],
+      "id": 64,
+      "label": "[redacted bookmark or page title 16]",
+      "px": [
+        1634,
+        246,
+        176,
+        56
+      ],
+      "role": "AXButton",
+      "screen": 0,
+      "title": ""
+    },
+    {
+      "center": [
+        1893,
+        274
+      ],
+      "id": 65,
+      "label": "button \u00b7 Google",
+      "px": [
+        1818,
+        246,
+        150,
+        56
+      ],
+      "role": "AXButton",
+      "screen": 0,
+      "title": ""
+    },
+    {
+      "center": [
+        2043,
+        274
+      ],
+      "id": 66,
+      "label": "button \u00b7 Apple",
+      "px": [
+        1976,
+        246,
+        134,
+        56
+      ],
+      "role": "AXButton",
+      "screen": 0,
+      "title": ""
+    },
+    {
+      "center": [
+        2208,
+        274
+      ],
+      "id": 67,
+      "label": "button \u00b7 Wikipedia",
+      "px": [
+        2118,
+        246,
+        180,
+        56
+      ],
+      "role": "AXButton",
+      "screen": 0,
+      "title": ""
+    },
+    {
+      "center": [
+        2388,
+        274
+      ],
+      "id": 68,
+      "label": "button \u00b7 YouTube",
+      "px": [
+        2306,
+        246,
+        164,
+        56
+      ],
+      "role": "AXButton",
+      "screen": 0,
+      "title": ""
+    },
+    {
+      "center": [
+        2549,
+        274
+      ],
+      "id": 69,
+      "label": "button \u00b7 Netflix",
+      "px": [
+        2478,
+        246,
+        142,
+        56
+      ],
+      "role": "AXButton",
+      "screen": 0,
+      "title": ""
+    },
+    {
+      "center": [
+        2706,
+        274
+      ],
+      "id": 70,
+      "label": "pop up button \u00b7 Menu containing hidden bookmarks",
+      "px": [
+        2678,
+        246,
+        56,
+        56
+      ],
+      "role": "AXPopUpButton",
+      "screen": 0,
+      "title": ""
+    },
+    {
+      "center": [
+        2889,
+        274
+      ],
+      "id": 71,
+      "label": "pop up button \u00b7 All Bookmarks",
+      "px": [
+        2770,
+        246,
+        238,
+        56
+      ],
+      "role": "AXPopUpButton",
+      "screen": 0,
+      "title": ""
+    },
+    {
+      "center": [
+        212,
+        108
+      ],
+      "id": 77,
+      "label": "pop up button \u00b7 Tab Search",
+      "px": [
+        184,
+        80,
+        56,
+        56
+      ],
+      "role": "AXPopUpButton",
+      "screen": 0,
+      "title": ""
+    },
+    {
+      "center": [
+        2900,
+        108
+      ],
+      "id": 80,
+      "label": "button \u00b7 Open Gemini in Chrome",
+      "px": [
+        2776,
+        68,
+        248,
+        80
+      ],
+      "role": "AXButton",
+      "screen": 0,
+      "title": ""
+    },
+    {
+      "center": [
+        276,
+        194
+      ],
+      "id": 91,
+      "label": "pop up button \u00b7 View site information",
+      "px": [
+        252,
+        170,
+        48,
+        48
+      ],
+      "role": "AXPopUpButton",
+      "screen": 0,
+      "title": ""
+    },
+    {
+      "center": [
+        1383,
+        194
+      ],
+      "id": 92,
+      "label": "[redacted bookmark or page title 17]",
+      "px": [
+        316,
+        170,
+        2134,
+        48
+      ],
+      "role": "AXTextField",
+      "screen": 0,
+      "title": ""
+    },
+    {
+      "center": [
+        2654,
+        194
+      ],
+      "id": 95,
+      "label": "pop up button \u00b7 Paperwork Goblin\nWants access to this site",
+      "px": [
+        2620,
+        160,
+        68,
+        68
+      ],
+      "role": "AXPopUpButton",
+      "screen": 0,
+      "title": ""
+    },
+    {
+      "center": [
+        2726,
+        194
+      ],
+      "id": 96,
+      "label": "pop up button \u00b7 Extensions",
+      "px": [
+        2692,
+        160,
+        68,
+        68
+      ],
+      "role": "AXPopUpButton",
+      "screen": 0,
+      "title": ""
+    },
+    {
+      "center": [
+        162,
+        274
+      ],
+      "id": 97,
+      "label": "[redacted bookmark or page title 18]",
+      "px": [
+        12,
+        254,
+        300,
+        40
+      ],
+      "role": "AXButton",
+      "screen": 0,
+      "title": ""
+    },
+    {
+      "center": [
+        356,
+        274
+      ],
+      "id": 98,
+      "label": "button \u00b7 Tab groups",
+      "px": [
+        328,
+        246,
+        56,
+        56
+      ],
+      "role": "AXButton",
+      "screen": 0,
+      "title": ""
+    },
+    {
+      "center": [
+        484,
+        109
+      ],
+      "id": 101,
+      "label": "[redacted bookmark or page title 19]",
+      "px": [
+        228,
+        68,
+        512,
+        82
+      ],
+      "role": "AXRadioButton",
+      "screen": 0,
+      "title": ""
+    },
+    {
+      "center": [
+        2490,
+        194
+      ],
+      "id": 107,
+      "label": "button \u00b7 Install YouTube",
+      "px": [
+        2466,
+        170,
+        48,
+        48
+      ],
+      "role": "AXButton",
+      "screen": 0,
+      "title": ""
+    },
+    {
+      "center": [
+        2554,
+        194
+      ],
+      "id": 108,
+      "label": "button \u00b7 Bookmark this tab",
+      "px": [
+        2530,
+        170,
+        48,
+        48
+      ],
+      "role": "AXButton",
+      "screen": 0,
+      "title": ""
+    },
+    {
+      "center": [
+        636,
+        108
+      ],
+      "id": 109,
+      "label": "button \u00b7 Mute tab",
+      "px": [
+        620,
+        92,
+        32,
+        32
+      ],
+      "role": "AXButton",
+      "screen": 0,
+      "title": ""
+    },
+    {
+      "center": [
+        684,
+        108
+      ],
+      "id": 110,
+      "label": "button \u00b7 Close",
+      "px": [
+        656,
+        80,
+        56,
+        56
+      ],
+      "role": "AXButton",
+      "screen": 0,
+      "title": ""
+    }
+  ],
+  "window_bounds_cg": [
+    0,
+    155,
+    1512,
+    827
+  ],
+  "window_image": "google-chrome.png",
+  "window_image_size": [
+    3024,
+    1654
+  ],
+  "window_rect_px": [
+    0,
+    310,
+    3024,
+    1654
+  ],
+  "window_title": "[redacted bookmark or page title 4]"
+}
