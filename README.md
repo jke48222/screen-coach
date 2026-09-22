@@ -1,5 +1,7 @@
 # ScreenCoach
 
+[![License](https://img.shields.io/github/license/jke48222/screen-coach)](LICENSE) ![Top language](https://img.shields.io/github/languages/top/jke48222/screen-coach) ![platform](https://img.shields.io/badge/platform-macOS-lightgrey) ![capture](https://img.shields.io/badge/capture-ScreenCaptureKit-blue)
+
 Press a hotkey, say or type the name of any control on your screen, and a cursor flies to it and
 points. It solves the problem of telling somebody where a button is over the phone.
 
@@ -387,6 +389,10 @@ Shipping state: `build/ScreenCoach.app`, thin arm64, bundle `com.funproject.scre
   app, ideally a dense one, is the highest-value next measurement.
 - **No screenshot or demo clip exists.** For a project whose entire output is a cursor arcing to a
   control, that is the most valuable missing asset.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
 
 ---
 
